@@ -1,0 +1,43 @@
+--------- beginning of main
+09-23 01:25:22.891  9099  9099 I ScreenTranslatorA11y: Accessibility service connected
+09-23 01:25:23.028  9099 15645 I ScreenTranslatorPipe: model prewarm [es→en]: ready=true in 0ms
+09-23 01:25:23.311  9099  9099 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 01:25:23.559  9099 15645 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 01:25:23.559  9099  9099 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 01:25:24.452  9099  9129 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 01:25:24.555  9099  9129 I ScreenTranslatorPipe: model ready [bg→en] in 81ms
+09-23 01:25:24.718  9099 10805 I ScreenTranslatorPipe:   [ru→en] no-op "устар."; no card
+09-23 01:25:37.337  9099 10805 I ScreenTranslatorPipe: model ready [ar→en] in 12771ms
+09-23 01:25:37.369  9099 10805 I ScreenTranslatorPipe: translation timing [bg→en]: model=12833ms inference=27ms
+09-23 01:25:37.370  9099 10805 I ScreenTranslatorPipe:   [bg→en] no-op "разн."; no card
+09-23 01:25:37.372  9099 10805 I ScreenTranslatorPipe: translation timing [bg→en]: model=12821ms inference=26ms
+09-23 01:25:37.372  9099 10805 I ScreenTranslatorPipe:   [bg→en] no-op "Википедия"; no card
+09-23 01:25:37.383  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12852ms inference=44ms
+09-23 01:25:37.390  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12850ms inference=49ms
+09-23 01:25:37.450  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12839ms inference=110ms
+09-23 01:25:37.482  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12839ms inference=141ms
+09-23 01:25:37.495  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12838ms inference=154ms
+09-23 01:25:37.522  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12831ms inference=179ms
+09-23 01:25:37.532  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12829ms inference=190ms
+09-23 01:25:37.543  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12828ms inference=201ms
+09-23 01:25:37.558  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12827ms inference=214ms
+09-23 01:25:37.560  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12824ms inference=217ms
+09-23 01:25:37.560  9099 10805 I ScreenTranslatorPipe:   [ru→en] no-op "обс."; no card
+09-23 01:25:37.579  9099 10805 I ScreenTranslatorPipe: translation timing [ar→en]: model=12854ms inference=241ms
+09-23 01:25:37.583  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12820ms inference=240ms
+09-23 01:25:37.585  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12821ms inference=241ms
+09-23 01:25:37.586  9099 10805 I ScreenTranslatorPipe:   [ru→en] no-op "СоколовМихаил"; no card
+09-23 01:25:37.588  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12821ms inference=243ms
+09-23 01:25:37.603  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12821ms inference=259ms
+09-23 01:25:37.625  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12821ms inference=280ms
+09-23 01:25:37.634  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12822ms inference=288ms
+09-23 01:25:37.637  9099 10805 I ScreenTranslatorPipe: translation timing [ru→en]: model=12822ms inference=291ms
+09-23 01:25:37.637  9099 15653 I ScreenTranslatorPipe: translation timing [ru→en]: model=12822ms inference=290ms
+09-23 01:25:37.639  9099 15653 I ScreenTranslatorPipe: translation timing [ru→en]: model=12821ms inference=290ms
+09-23 01:25:37.645  9099 15653 I ScreenTranslatorPipe: translation timing [ru→en]: model=12821ms inference=297ms
+09-23 01:25:37.648  9099 15653 I ScreenTranslatorPipe: translation timing [ru→en]: model=12820ms inference=301ms
+09-23 01:25:37.649  9099 15653 I ScreenTranslatorPipe: translation timing [ru→en]: model=12822ms inference=300ms
+09-23 01:25:37.660  9099 15653 I ScreenTranslatorPipe: translation timing [ru→en]: model=12823ms inference=310ms
+09-23 01:25:38.288  9099 15653 I ScreenTranslatorPipe: a11y fast-path 42 node(s) → 25 card(s) in 14344ms
+09-23 01:25:38.639  9099 15653 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 01:25:38.639  9099 15653 I ScreenTranslatorPipe: a11y unchanged (fp=1633813529, 42 node(s)); reusing 25 card(s)

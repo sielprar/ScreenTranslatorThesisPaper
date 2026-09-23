@@ -1,0 +1,60 @@
+--------- beginning of main
+09-23 02:17:59.431 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:17:59.503 28263 28483 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:17:59.704 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:17:59.924 28263 28263 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=1 focus=0
+09-23 02:18:00.140 28263 28412 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:18:00.141 28263 28263 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 02:18:01.417 28263 28416 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 894ms → 22 region(s)
+09-23 02:18:01.710 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.53) "CoKonOBMuxann (06c.) Bcë xe 9TO He cTaTbA" → [ru conf=1.00 cyr=30] "СоколовМихаил (обс.) всё же это He статья"
+09-23 02:18:01.712 28263 28413 I ScreenTranslatorPipe:   [und] "CoKonOBMuxann (06c.) Bcë xe 9TO He cTaTbA" @ Rect(151, 1093 - 989, 1135)
+09-23 02:18:01.783 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read ". Вы просматриваете постоянную ссылку" (ML Kit ". Bbl ip0CMaTpMBaeTe noCTOAHHYIO CCbI/IKy") @ Rect(157, 1233 - 968, 1273)
+09-23 02:18:01.784 28263 28484 I ScreenTranslatorPipe:   [ru→en] ". Вы просматриваете постоянную ссылку" → ". You are viewing a permanent link." @ Rect(157, 1233 - 968, 1273)
+09-23 02:18:01.830 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "напиток из жареных и перемолотых зёрен" (ML Kit "HariuTOK M3 KapeHbIX M nepeMonoTbIX 3ëpeH") @ Rect(45, 1934 - 883, 1972)
+09-23 02:18:01.830 28263 28413 I ScreenTranslatorPipe:   [ru→en] "напиток из жареных и перемолотых зёрен" → "Drink of fried and ground green" @ Rect(45, 1934 - 883, 1972)
+09-23 02:18:01.834 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Kóhe (oT apaő. ösqä [qahwa/gahfa], yepes" → [und conf=0.00 cyr=15] "Кбфе (от араб. 3948 qahwa/gahfal, через"
+09-23 02:18:01.895 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "Кофейные зёрна)" (ML Kit "KopeňHble sëpHa)") @ Rect(150, 1162 - 485, 1204)
+09-23 02:18:01.896 28263 28412 I ScreenTranslatorPipe:   [ru→en] "Кофейные зёрна)" → "Coffee Oil)" @ Rect(150, 1162 - 485, 1204)
+09-23 02:18:01.900 28263 28412 I ScreenTranslatorPipe:   [ru→en] "Кбфе (от араб. 3948 qahwa/gahfal, через" → "CBFE (from Arab. 3948 QAHWA / Gahfal, through" @ Rect(45, 1789 - 827, 1838)
+09-23 02:18:01.917 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "(значения)." (ML Kit "(3HayeHna).") @ Rect(62, 1700 - 237, 1733)
+09-23 02:18:01.918 28263 28413 I ScreenTranslatorPipe:   [ru→en] "(значения)." → "(value)." @ Rect(62, 1700 - 237, 1733)
+09-23 02:18:01.926 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.53) "ru.wikipedia.org/w/index.php?o (31)" → [en conf=0.51 cyr=0] "ru.wikipedia.org/w/index.php?o @)"
+09-23 02:18:01.926 28263 28483 I ScreenTranslatorPipe:   [und] "ru.wikipedia.org/w/index.php?o (31)" @ Rect(222, 193 - 917, 234)
+09-23 02:18:01.938 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "(pasH.)" → [und conf=0.00 cyr=0] "(pa3H.)"
+09-23 02:18:01.938 28263 28484 I ScreenTranslatorPipe:   [und] "(pasH.)" @ Rect(151, 1498 - 277, 1546)
+09-23 02:18:01.943 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Ko¢e" → [und conf=0.00 cyr=0] "Kode"
+09-23 02:18:01.943 28263 28414 I ScreenTranslatorPipe:   [und] "Ko¢e" @ Rect(45, 496 - 218, 568)
+09-23 02:18:01.948 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "на эту версию." (ML Kit "Ha 9Ty Bepcuo.") @ Rect(152, 1308 - 435, 1340)
+09-23 02:18:01.948 28263 28412 I ScreenTranslatorPipe:   [ru→en] "на эту версию." → "on this version." @ Rect(152, 1308 - 435, 1340)
+09-23 02:18:01.958 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Kope" → [sr conf=0.53 cyr=4] "Кофе"
+09-23 02:18:01.965 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "У этого термина существуют и другие значения, см. Кофе" (ML Kit "y 9TOro TepMMHa cyuyecTBYIOT M Apyrve 3HayeHUA, CM. Kope") @ Rect(62, 1645 - 984, 1676)
+09-23 02:18:01.966 28263 28416 I ScreenTranslatorPipe:   [ru→en] "У этого термина существуют и другие значения, см. Кофе" → "This term has other meanings, see Coffee" @ Rect(62, 1645 - 984, 1676)
+09-23 02:18:02.005 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "А Это текущая версия страницы," (ML Kit "A 3TO TeKyujas Bepcua cTpaHMĻbI,") @ Rect(79, 889 - 768, 937)
+09-23 02:18:02.005 28263 28414 I ScreenTranslatorPipe:   [ru→en] "А Это текущая версия страницы," → "And this is the current version of the page," @ Rect(79, 889 - 768, 937)
+09-23 02:18:02.014 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.91) "CraTbA 06cyxAeHne" → [ru conf=1.00 cyr=16] "Статья Обсуждение"
+09-23 02:18:02.014 28263 28413 I ScreenTranslatorPipe:   [und] "CraTbA 06cyxAeHne" @ Rect(43, 623 - 410, 657)
+09-23 02:18:02.214 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "кофейного дерева или кофейного куста." (ML Kit "KOþeňHoro AepeBa unM KoeŭHoro KycTa.") @ Rect(55, 2000 - 836, 2046)
+09-23 02:18:02.214 28263 28412 I ScreenTranslatorPipe:   [ru→en] "кофейного дерева или кофейного куста." → "Coffee tree or coffee bush." @ Rect(55, 2000 - 836, 2046)
+09-23 02:18:02.278 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "(отмена правки 153564235 участника" (ML Kit "(oTMeHa npaBKu 153564235 yyacTHHKa") @ Rect(151, 1026 - 879, 1068)
+09-23 02:18:02.278 28263 28413 I ScreenTranslatorPipe:   [ru→en] "(отмена правки 153564235 участника" → "(Cancel of Edit 153564235" @ Rect(151, 1026 - 879, 1068)
+09-23 02:18:02.348 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "нид. Коййе, англ. сойее и устар. кофий, кофей'!!)" (ML Kit "HMA, koffie, aHrn. coffee n ycrap. Kóuă, Kóhem4) -") @ Rect(45, 1858 - 1009, 1903)
+09-23 02:18:02.348 28263 28412 I ScreenTranslatorPipe:   [ru→en] "нид. Коййе, англ. сойее и устар. кофий, кофей'!!)" → "нид. Koyye, English. Sweeee and the statute. Cofi, coffee '!!)" @ Rect(45, 1858 - 1009, 1903)
+09-23 02:18:02.362 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "Кофе" (ML Kit "Kope") @ Rect(488, 2113 - 596, 2158)
+09-23 02:18:02.362 28263 28484 I ScreenTranslatorPipe:   [ru→en] "Кофе" → "Coffee" @ Rect(488, 2113 - 596, 2158)
+09-23 02:18:02.448 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "сохранённая Г МТС в 11:40, 16 июня 2026" (ML Kit "coxpaHëHHaA LNTG B 11:40, 16 MIOHA 2026") @ Rect(150, 955 - 961, 997)
+09-23 02:18:02.449 28263 28416 I ScreenTranslatorPipe:   [ru→en] "сохранённая Г МТС в 11:40, 16 июня 2026" → "Saved MTS at 11:40, June 16, 2026" @ Rect(150, 955 - 961, 997)
+09-23 02:18:02.521 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "версия (разн.) Следующая версия" (ML Kit "Bepcua (pasH.) | CneAyioujas BepcuA -") @ Rect(166, 1437 - 889, 1481)
+09-23 02:18:02.521 28263 28412 I ScreenTranslatorPipe:   [ru→en] "версия (разн.) Следующая версия" → "Version (different.) Next version" @ Rect(166, 1437 - 889, 1481)
+09-23 02:18:02.589 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "(разн.) - Предыдущая версия Текущая" (ML Kit "(pasH.) - lpegbiAyuyas BepcuA | Tekyuas") @ Rect(152, 1367 - 949, 1413)
+09-23 02:18:02.589 28263 28416 I ScreenTranslatorPipe:   [ru→en] "(разн.) - Предыдущая версия Текущая" → "(different.) - Previous version of the current" @ Rect(152, 1367 - 949, 1413)
+09-23 02:18:02.595 28263 28416 I ScreenTranslatorPipe: language signal: counts={ru=15} → ru
+09-23 02:18:02.596 28263 28416 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:18:02.615 28263 28416 I ScreenTranslatorPipe: LID+NMT for 22 region(s) in 1178ms → 15 card(s)
+09-23 02:18:02.930 28263 28416 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:18:02.933 28263 28412 I ScreenTranslatorPipe:   [ru→en] no-op "устар."; no card
+09-23 02:18:02.936 28263 28416 I ScreenTranslatorPipe:   [bg→en] no-op "Википедия"; no card
+09-23 02:18:02.936 28263 28413 I ScreenTranslatorPipe:   [bg→en] no-op "разн."; no card
+09-23 02:18:02.939 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "обс."; no card
+09-23 02:18:02.940 28263 28416 I ScreenTranslatorPipe:   [ru→en] no-op "СоколовМихаил"; no card
+09-23 02:18:03.334 28263 28416 I ScreenTranslatorPipe: a11y fast-path 42 node(s) → 25 card(s) in 714ms
+09-23 02:18:03.335 28263 28416 I ScreenTranslatorBench: last 30 frames: a11y_hit n=4 p50=32ms p95=258ms; a11y_full n=2 p50=1891ms p95=1891ms; hash_hit n=11 p50=397ms p95=795ms; ocr_full n=13 p50=2917ms p95=14227ms

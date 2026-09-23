@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: screentranslator-ml
+Version: 0.1.0
+Summary: Cyrillic-focused on-device OCR — training + export for the ScreenTranslator thesis.
+Requires-Python: >=3.11
+Requires-Dist: torch>=2.3
+Requires-Dist: torchvision>=0.18
+Requires-Dist: nobuco>=0.13
+Requires-Dist: onnx>=1.16
+Requires-Dist: pyclipper>=1.3
+Requires-Dist: shapely>=2.0
+Requires-Dist: opencv-python-headless>=4.9
+Requires-Dist: pillow>=10.3
+Requires-Dist: numpy>=1.26
+Requires-Dist: tqdm>=4.66
+Requires-Dist: wandb>=0.17
+Requires-Dist: hydra-core>=1.3
+Requires-Dist: label-studio-sdk>=1.0
+Requires-Dist: requests>=2.31
+Requires-Dist: fonttools>=4.51
+Requires-Dist: datasets>=2.19
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
+Requires-Dist: mypy>=1.10; extra == "dev"

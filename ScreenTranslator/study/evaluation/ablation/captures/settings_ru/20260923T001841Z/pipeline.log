@@ -1,0 +1,24 @@
+--------- beginning of main
+09-23 02:18:54.779  3221  3221 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:18:54.996  3221  3252 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 1ms
+09-23 02:18:55.318  3221  3221 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:18:55.374  3221  3221 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=1 focus=1
+09-23 02:18:55.607  3221  3251 I ScreenTranslatorPipe: model ready [bg→en] in 51ms
+09-23 02:18:57.620  3221  3251 I ScreenTranslatorPipe: translation timing [bg→en]: model=52ms inference=2011ms
+09-23 02:18:57.621  3221  3250 I ScreenTranslatorPipe: translation timing [bg→en]: model=44ms inference=2012ms
+09-23 02:18:57.623  3221  3251 I ScreenTranslatorPipe: translation timing [bg→en]: model=51ms inference=2013ms
+09-23 02:18:57.632  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=44ms inference=2022ms
+09-23 02:18:57.634  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=43ms inference=2025ms
+09-23 02:18:57.678  3221  3252 I ScreenTranslatorPipe: translation timing [ru→en]: model=50ms inference=2069ms
+09-23 02:18:57.680  3221  3250 I ScreenTranslatorPipe: translation timing [bg→en]: model=35ms inference=2067ms
+09-23 02:18:57.699  3221  3250 I ScreenTranslatorPipe: translation timing [bg→en]: model=34ms inference=2089ms
+09-23 02:18:57.723  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=41ms inference=2114ms
+09-23 02:18:57.726  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=36ms inference=2116ms
+09-23 02:18:57.752  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=36ms inference=2142ms
+09-23 02:18:57.783  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=35ms inference=2173ms
+09-23 02:18:57.806  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=35ms inference=2196ms
+09-23 02:18:57.829  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=35ms inference=2218ms
+09-23 02:18:57.863  3221  3250 I ScreenTranslatorPipe: translation timing [ru→en]: model=34ms inference=2252ms
+09-23 02:18:58.541  3221  3250 I ScreenTranslatorPipe: a11y fast-path 16 node(s) → 15 card(s) in 3551ms
+09-23 02:19:00.272  3221  3250 I ScreenTranslatorPipe: a11y unchanged (fp=-1196914568, 16 node(s)); reusing 15 card(s)
+09-23 02:19:00.283  3221  3250 I ScreenTranslatorPipe: a11y unchanged (fp=-1196914568, 16 node(s)); reusing 15 card(s)

@@ -1,0 +1,3 @@
+frame_id,ts_ms,pkg,path,total_ms,harvest_ms,root_ms,walk_ms,hash_ms,ocr_ms,nmt_ms,overlay_ms,n_regions,n_cards,ocr_raw,ocr_kept,ocr_w,ocr_h,ocr_scale
+37,1790119523943,com.android.chrome,a11y_full,14344,509,110,399,0,0,13207,29,42,25,0,0,0,0,1.0
+38,1790119538293,com.android.chrome,a11y_hit,347,346,5,341,0,0,0,1,42,25,0,0,0,0,1.0

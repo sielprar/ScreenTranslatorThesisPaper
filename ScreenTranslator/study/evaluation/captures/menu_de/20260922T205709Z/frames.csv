@@ -1,0 +1,2 @@
+frame_id,ts_ms,pkg,path,total_ms,harvest_ms,root_ms,walk_ms,hash_ms,ocr_ms,nmt_ms,overlay_ms,n_regions,n_cards,ocr_raw,ocr_kept,ocr_w,ocr_h,ocr_scale
+64,1790110637061,com.google.android.apps.photos,ocr_full,4030,57,22,35,0,641,2871,8,45,2,45,45,1080,2400,1.0

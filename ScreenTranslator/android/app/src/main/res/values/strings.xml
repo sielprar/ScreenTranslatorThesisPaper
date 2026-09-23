@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScreenTranslator</string>
+
+    <string name="accessibility_service_label">ScreenTranslator</string>
+    <string name="accessibility_service_summary">Translates on-screen text in real time</string>
+    <string name="accessibility_service_description">ScreenTranslator reads the text visible on your screen and overlays a translation. All processing happens on-device; nothing leaves your phone.</string>
+
+    <string name="onboarding_title">ScreenTranslator</string>
+    <string name="onboarding_intro">To translate text on your screen, ScreenTranslator needs to be enabled as an accessibility service. This lets the app read what is on the screen and draw the translation on top.\n\nAll processing runs on your device. Nothing is uploaded.</string>
+    <string name="onboarding_grant_button">Open Accessibility Settings</string>
+    <string name="onboarding_status_granted">Accessibility permission granted</string>
+    <string name="onboarding_status_missing">Accessibility permission not granted</string>
+    <string name="status_running_title">Service running</string>
+    <string name="status_running_body">Look for a small red marker in the top-right corner of any app. That is the overlay window drawn by the accessibility service.</string>
+    <string name="status_disable_button">Open Accessibility Settings</string>
+</resources>

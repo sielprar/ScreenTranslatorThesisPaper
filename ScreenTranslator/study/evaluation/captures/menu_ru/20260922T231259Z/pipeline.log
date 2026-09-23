@@ -1,0 +1,36 @@
+--------- beginning of main
+09-23 01:13:09.244  9099  9099 I ScreenTranslatorA11y: Accessibility service connected
+09-23 01:13:09.314  9099  9180 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 2ms
+09-23 01:13:09.575  9099  9099 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 01:13:09.678  9099  9099 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 01:13:09.679  9099  9182 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 01:13:10.091  9099 10495 W ScreenTranslatorA11y: takeScreenshot failed: errorCode=3
+09-23 01:14:01.600  9099  9182 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 1259ms → 46 region(s)
+09-23 01:14:01.612  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "uniquely Bavarian flavor, served boiled or grilled." @ Rect(58, 707 - 748, 738)
+09-23 01:14:01.612  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "Light and flavorful, it's made with oil and vinegar" @ Rect(55, 1836 - 709, 1866)
+09-23 01:14:01.613  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "A Munich staple: a mild pork & veal sausage with a" @ Rect(57, 665 - 773, 695)
+09-23 01:14:01.614  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "A thick frankfurter but different than the average" @ Rect(76, 1420 - 749, 1455)
+09-23 01:14:01.614  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "old recipe of pork, marjoram, ginger & cardamom." @ Rect(56, 504 - 765, 536)
+09-23 01:14:01.615  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "wunderbar when cut thick and fried (like we do)." @ Rect(57, 1077 - 744, 1108)
+09-23 01:14:01.615  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "From the city of Nürnberg, made from a 700 year" @ Rect(57, 463 - 754, 493)
+09-23 01:14:01.616  9099  9180 I ScreenTranslatorPipe:   [en/focus-skip] "Cool, crunchy cucumbers with dill, vinegar & more." @ Rect(59, 1996 - 745, 2025)
+09-23 01:14:01.620  9099  9181 I ScreenTranslatorPipe:   [en/focus-skip] "CHECK KITCHEN BLACKBOARD FOR PRICES & THIS WEEK'S SELECTION" @ Rect(55, 295 - 1027, 321)
+09-23 01:14:01.621  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "This delicately seasoned pork sausage is one of" @ Rect(51, 846 - 717, 878)
+09-23 01:14:01.622  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "and marjoram blend to create old world flavor." @ Rect(55, 1268 - 717, 1299)
+09-23 01:14:01.622  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "The Ratskeller's own traditional "haus" recipe" @ Rect(55, 1678 - 671, 1706)
+09-23 01:14:01.623  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "It's sort of a German meatloaf, at its most" @ Rect(59, 1036 - 647, 1065)
+09-23 01:14:01.623  9099  9129 I ScreenTranslatorPipe:   [en/focus-skip] "the most popular in Germany - and the Rat!" @ Rect(52, 889 - 674, 919)
+09-23 01:14:01.623  9099  9181 I ScreenTranslatorPipe:   [en/focus-skip] "Course texture and combination of mustard seed" @ Rect(55, 1226 - 748, 1251)
+09-23 01:14:01.624  9099  9181 I ScreenTranslatorPipe:   [en/focus-skip] "hot dog. Grilled or boiled, it is mild and satisfying." @ Rect(57, 1467 - 745, 1497)
+09-23 01:14:01.626  9099  9181 I ScreenTranslatorPipe:   [en/focus-skip] "made with lots of love." @ Rect(57, 1716 - 360, 1740)
+09-23 01:14:01.627  9099  9181 I ScreenTranslatorPipe:   [en/focus-skip] "Copy text from image x" @ Rect(399, 2089 - 785, 2131)
+09-23 01:14:01.627  9099  9182 I ScreenTranslatorPipe:   [en/focus-skip] "with a cool beer "vom Fass"." @ Rect(54, 2182 - 435, 2205)
+09-23 01:14:01.628  9099  9181 I ScreenTranslatorPipe:   [en/focus-skip] "A seasonal favorite." @ Rect(78, 2032 - 320, 2062)
+09-23 01:14:03.368  9099  9181 I ScreenTranslatorPipe:   [ru/focus→en] "Эта хитов" → "This hits" @ Rect(50, 786 - 299, 828)
+09-23 01:14:03.375  9099  9129 I ScreenTranslatorPipe:   [ru/focus→en] "ооо" → "Ltd." @ Rect(198, 182 - 268, 221)
+09-23 01:14:03.432  9099 10806 I ScreenTranslatorPipe:   [ru/focus→en] "и ; 7 Т с бе" → "and; 7 t with be" @ Rect(326, 89 - 1030, 169)
+09-23 01:14:03.662  9099  9182 I ScreenTranslatorPipe:   [ru/focus→en] "Ре!е!е" → "Re! £! Is," @ Rect(865, 2284 - 971, 2313)
+09-23 01:14:03.843  9099  9181 I ScreenTranslatorPipe: language signal: counts={ru=4} → ru
+09-23 01:14:03.844  9099  9182 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 01:14:03.850  9099  9182 I ScreenTranslatorPipe: LID+NMT for 46 region(s) in 2244ms → 4 card(s)
+09-23 01:14:04.054  9099  9182 I ScreenTranslatorPipe: screen unchanged (hamming=0/256 in 1ms); reusing 4 card(s)

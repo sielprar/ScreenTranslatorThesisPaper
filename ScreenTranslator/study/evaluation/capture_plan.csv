@@ -1,0 +1,12 @@
+case_id,launch,package,expected_locale,viewport,setup_notes
+menu_fr,image:study/menu_findings/source_french.webp,com.google.android.apps.photos,en-US,Photos viewer default fit-to-screen,
+menu_ru,image:study/menu_findings/source_russian.jpg,com.google.android.apps.photos,en-US,Photos viewer default fit-to-screen,
+menu_de,image:study/menu_findings/source_german.jpg,com.google.android.apps.photos,en-US,Photos viewer default fit-to-screen,
+settings_ru,intent:android.settings.SETTINGS,com.android.settings,ru-RU,Settings main list scrolled to top,Set system language to Русский (Россия) first
+browser_es,url:https://es.m.wikipedia.org/w/index.php?title=Caf%C3%A9&oldid=175479450,com.android.chrome,en-US,"Top of article, Chrome default zoom, no scroll",Chrome set to 'Never translate' Spanish and Russian so its own translate bar does not cover the page; page loads in ~12 s
+browser_ru,url:https://ru.m.wikipedia.org/w/index.php?title=%D0%9A%D0%BE%D1%84%D0%B5&oldid=153564774,com.android.chrome,en-US,"Top of article, Chrome default zoom, no scroll",Chrome set to 'Never translate' Spanish and Russian so its own translate bar does not cover the page; page loads in ~12 s
+chat_es,cut,com.google.android.apps.messaging,en-US,Conversation scrolled to latest message,CUT 2026-09-23: not captured (author decision)
+map_fr,cut,,en-US,Record map viewer and zoom in notes,CUT 2026-09-23: not captured (author decision)
+game_ru,cut,,en-US,Record game or viewer in notes,CUT 2026-09-23: not captured (author decision)
+pdf_fr,cut,,en-US,Record PDF viewer and zoom in notes,CUT 2026-09-23: not captured (author decision)
+english_control,intent:android.settings.SETTINGS,com.android.settings,en-US,Settings main list scrolled to top,Set system language to English (United States) first

@@ -1,0 +1,67 @@
+--------- beginning of main
+09-23 01:09:44.013  3216  3216 I ScreenTranslatorA11y: Accessibility service connected
+09-23 01:09:44.062  3216  6134 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 01:09:44.172  3216  3216 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 01:09:45.132  3216  3313 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 861ms → 45 region(s)
+09-23 01:09:45.137  3216  3255 I ScreenTranslatorPipe:   [en] "CHECK KITCHEN BLACKBOARD FOR PRICES & THIS WEEK'S SELECTION" @ Rect(55, 295 - 1026, 321)
+09-23 01:09:45.137  3216  3255 I ScreenTranslatorPipe:   [en] "uniquely Bavarian flavor, served boiled or grilled." @ Rect(58, 707 - 747, 738)
+09-23 01:09:45.137  3216  5827 I ScreenTranslatorPipe:   [en] "hot dog. Grilled or boiled, it is mild and satisfying." @ Rect(57, 1467 - 745, 1497)
+09-23 01:09:45.138  3216  3255 I ScreenTranslatorPipe:   [en] "Light and flavorful, it's made with oil and vinegar" @ Rect(56, 1836 - 709, 1866)
+09-23 01:09:45.141  3216  6135 I ScreenTranslatorPipe:   [en] "A Munich staple: a mild pork & veal sausage with a" @ Rect(77, 663 - 773, 695)
+09-23 01:09:45.141  3216  6135 I ScreenTranslatorPipe:   [en] "A thick frankfurter but different than the average" @ Rect(55, 1424 - 749, 1456)
+09-23 01:09:45.141  3216  6135 I ScreenTranslatorPipe:   [en] "old recipe of pork, marjoram, ginger & cardamom." @ Rect(56, 505 - 765, 536)
+09-23 01:09:45.142  3216  6136 I ScreenTranslatorPipe:   [en] "Cool, crunchy cucumbers with dill, vinegar & more." @ Rect(59, 1995 - 745, 2025)
+09-23 01:09:45.142  3216  6136 I ScreenTranslatorPipe:   [en] "Course texture and combination of mustard seed" @ Rect(55, 1226 - 748, 1251)
+09-23 01:09:45.143  3216  6136 I ScreenTranslatorPipe:   [en] "and marjoram blend to create old world flavor." @ Rect(55, 1268 - 717, 1299)
+09-23 01:09:45.143  3216  6136 I ScreenTranslatorPipe:   [en] "The Ratskeller's own traditional "haus" recipe" @ Rect(55, 1677 - 671, 1706)
+09-23 01:09:45.143  3216  6135 I ScreenTranslatorPipe:   [en] "wunderbar when cut thick and fried (like we do)." @ Rect(57, 1077 - 744, 1108)
+09-23 01:09:45.143  3216  3313 I ScreenTranslatorPipe:   [en] "From the city of Nürnberg, made from a 700 year" @ Rect(57, 463 - 754, 493)
+09-23 01:09:45.143  3216  6135 I ScreenTranslatorPipe:   [en] "It's sort of a German meatloaf, at its most" @ Rect(60, 1033 - 647, 1067)
+09-23 01:09:45.144  3216  3313 I ScreenTranslatorPipe:   [en] "the most popular in Germany - and the Rat!" @ Rect(52, 889 - 674, 919)
+09-23 01:09:45.144  3216  3255 I ScreenTranslatorPipe:   [en] "This delicately seasoned pork sausage is one of" @ Rect(51, 846 - 717, 878)
+09-23 01:09:45.146  3216  6136 I ScreenTranslatorPipe:   [en] "with a cool beer "vom Fass"." @ Rect(54, 2181 - 433, 2205)
+09-23 01:09:45.146  3216  3255 I ScreenTranslatorPipe:   [en] "made with lots of love." @ Rect(57, 1716 - 360, 1740)
+09-23 01:09:45.146  3216  6135 I ScreenTranslatorPipe:   [en] "A seasonal favorite." @ Rect(79, 2032 - 321, 2063)
+09-23 01:09:45.156  3216  6136 I ScreenTranslatorPipe:   [en] "Copy text from image x" @ Rect(398, 2089 - 786, 2131)
+09-23 01:09:45.331  3216  6136 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.82) "Alpine guides, soldiers & beer drinkers." → [en conf=0.82 cyr=0] "Alpine guides, soldiers & beer drinkers."
+09-23 01:09:45.333  3216  6136 I ScreenTranslatorPipe:   [und] "Alpine guides, soldiers & beer drinkers." @ Rect(53, 2336 - 578, 2365)
+09-23 01:09:45.342  3216  3313 I ScreenTranslatorPipe:   [en] "Good ones are hara to come Dy. satyand so go0d" @ Rect(55, 2141 - 744, 2173)
+09-23 01:09:45.347  3216  6134 I ScreenTranslatorPipe:   [und] ""Our Wurst ís the Best"" @ Rect(413, 168 - 897, 215)
+09-23 01:09:45.384  3216  6136 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.60) "Sides und Snacks" → [en conf=0.60 cyr=0] "Sides und Snacks"
+09-23 01:09:45.384  3216  6136 I ScreenTranslatorPipe:   [und] "Sides und Snacks" @ Rect(76, 1531 - 408, 1583)
+09-23 01:09:45.395  3216  3313 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.79) "instead of mayo." → [en conf=0.79 cyr=0] "instead of mayo."
+09-23 01:09:45.395  3216  3313 I ScreenTranslatorPipe:   [und] "instead of mayo." @ Rect(54, 1873 - 273, 1903)
+09-23 01:09:45.450  3216  3313 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Cultural ociet" → [en conf=0.71 cyr=1] "= Ty к"
+09-23 01:09:45.450  3216  3313 I ScreenTranslatorPipe:   [und] "Cultural ociet" @ Rect(118, 175 - 264, 229)
+09-23 01:09:45.506  3216  6135 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.78) "Rhode 3oland" → [en conf=0.61 cyr=0] "mine pe ion)"
+09-23 01:09:45.506  3216  6135 I ScreenTranslatorPipe:   [und] "Rhode 3oland" @ Rect(94, 140 - 290, 164)
+09-23 01:09:45.568  3216  3255 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Bauernwurst" → [de conf=0.56 cyr=0] "Sauernwurst"
+09-23 01:09:45.568  3216  3255 I ScreenTranslatorPipe:   [und] "Bauernwurst" @ Rect(54, 1169 - 364, 1210)
+09-23 01:09:45.657  3216  6134 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.84) "2Türnberger Bratwurst" → [en conf=0.84 cyr=0] "Murnberger Bratwurst"
+09-23 01:09:45.657  3216  6134 I ScreenTranslatorPipe:   [und] "2Türnberger Bratwurst" @ Rect(48, 391 - 579, 449)
+09-23 01:09:45.713  3216  3313 I ScreenTranslatorPipe:   tesseract tried on [lb]/unexpected "Weisswurst" → [lb conf=0.88 cyr=0] "Weisswurst"
+09-23 01:09:45.713  3216  3313 I ScreenTranslatorPipe:   [und] "Weisswurst" @ Rect(51, 592 - 322, 636)
+09-23 01:09:45.718  3216  6136 I ScreenTranslatorPipe:   [en] "This liaSmoked sausg is a favorite snNF" @ Rect(60, 2289 - 706, 2326)
+09-23 01:09:45.758  3216  3312 I ScreenTranslatorPipe:   tesseract tried on [de]/low-conf(0.74) "knackwurst" → [de conf=0.51 cyr=0] "&nackwurst"
+09-23 01:09:45.769  3216  3312 I ScreenTranslatorPipe:   [und] "knackwurst" @ Rect(52, 1350 - 331, 1400)
+09-23 01:09:45.798  3216  6135 I ScreenTranslatorPipe:   tesseract tried on [de]/low-conf(0.59) "Lcberkäse" → [en conf=0.54 cyr=0] "SLeberkase"
+09-23 01:09:45.798  3216  6135 I ScreenTranslatorPipe:   [und] "Lcberkäse" @ Rect(52, 966 - 282, 1012)
+09-23 01:09:45.802  3216  6135 I ScreenTranslatorPipe:   tesseract tried on [de]/low-conf(0.54) "Sauerkraut" → [de conf=0.54 cyr=0] "Sauerkraut"
+09-23 01:09:45.802  3216  6135 I ScreenTranslatorPipe:   [und] "Sauerkraut" @ Rect(54, 1617 - 282, 1659)
+09-23 01:09:45.803  3216  3255 I ScreenTranslatorPipe:   [und] "Landjiger" @ Rect(52, 2234 - 255, 2286)
+09-23 01:09:45.816  3216  3255 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Bratwurst" → [und conf=0.00 cyr=0] "Sratwurst"
+09-23 01:09:45.816  3216  3255 I ScreenTranslatorPipe:   [und] "Bratwurst" @ Rect(51, 786 - 298, 828)
+09-23 01:09:45.818  3216  3312 I ScreenTranslatorPipe:   [und] "Bretzel" @ Rect(52, 2087 - 202, 2136)
+09-23 01:09:45.836  3216  5827 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Rhode" → [und conf=0.00 cyr=0] "mio"
+09-23 01:09:45.836  3216  5827 I ScreenTranslatorPipe:   [und] "Rhode" @ Rect(94, 138 - 143, 163)
+09-23 01:09:45.866  3216  6136 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Delete" → [und conf=0.00 cyr=0] ""Delete"
+09-23 01:09:45.866  3216  6136 I ScreenTranslatorPipe:   [und] "Delete" @ Rect(865, 2284 - 971, 2313)
+09-23 01:09:45.966  3216  3312 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Gurkensalat - Cucumber SalaS" → [und conf=0.00 cyr=0] "Gurkensalat - Cucumber Salad"
+09-23 01:09:45.966  3216  3312 I ScreenTranslatorPipe:   [und] "Gurkensalat - Cucumber SalaS" @ Rect(56, 1930 - 679, 1973)
+09-23 01:09:45.972  3216  6136 I ScreenTranslatorPipe:   [und] "kartoffelsalat -1Dotato Salað" @ Rect(55, 1776 - 638, 1825)
+09-23 01:09:46.000  3216  6135 I ScreenTranslatorPipe:   tesseract tried on [und]/und "3olond" → [und conf=0.00 cyr=0] "Foland"
+09-23 01:09:46.000  3216  6135 I ScreenTranslatorPipe:   [und] "3olond" @ Rect(235, 138 - 290, 162)
+09-23 01:09:46.008  3216  3313 I ScreenTranslatorPipe:   [und] "2Retskefler Speisekarte" @ Rect(333, 87 - 1032, 171)
+09-23 01:09:46.008  3216  3313 I ScreenTranslatorPipe: language signal: counts={} → no suggestion
+09-23 01:09:46.008  3216  3313 I ScreenTranslatorPipe: LID+NMT for 45 region(s) in 876ms → 0 card(s)
+09-23 01:09:51.558  3216  3313 I ScreenTranslatorPipe: screen unchanged (hamming=0/256 in 0ms); reusing 0 card(s)

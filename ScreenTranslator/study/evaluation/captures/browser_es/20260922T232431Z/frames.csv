@@ -1,0 +1,6 @@
+frame_id,ts_ms,pkg,path,total_ms,harvest_ms,root_ms,walk_ms,hash_ms,ocr_ms,nmt_ms,overlay_ms,n_regions,n_cards,ocr_raw,ocr_kept,ocr_w,ocr_h,ocr_scale
+32,1790119490582,com.android.chrome,ocr_full,3670,269,24,245,7,1527,1380,106,24,12,24,24,1080,2400,1.0
+33,1790119494289,com.android.chrome,hash_hit,1112,936,28,908,0,0,0,1,0,12,0,0,0,0,1.0
+34,1790119500145,com.android.chrome,hash_hit,864,651,6,645,1,0,0,1,0,12,0,0,0,0,1.0
+35,1790119501013,com.android.chrome,hash_hit,568,95,2,93,0,0,0,3,0,12,0,0,0,0,1.0
+36,1790119501945,com.android.chrome,hash_hit,807,631,8,623,1,0,0,1,0,12,0,0,0,0,1.0

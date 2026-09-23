@@ -1,0 +1,47 @@
+--------- beginning of main
+09-23 02:15:20.892 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:15:20.980 28263 28809 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:15:21.174 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:15:21.357 28263 28263 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=1 focus=1
+09-23 02:15:22.558 28263 28412 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 1184ms → 25 region(s)
+09-23 02:15:22.657 28263 28484 I ScreenTranslatorPipe: model ready [es→en] in 57ms
+09-23 02:15:23.039 28263 28483 I ScreenTranslatorPipe:   [es→en] "Es uno de los productos más comercializados a nivel" → "It is one of the most commercialized products at the level" @ Rect(45, 1864 - 1027, 1903)
+09-23 02:15:23.070 28263 28483 I ScreenTranslatorPipe:   [es→en] "mundial, además de estar entre las tres bebidas más" → "worldwide, in addition to being among the three more drinks" @ Rect(45, 1934 - 1023, 1971)
+09-23 02:15:23.095 28263 28483 I ScreenTranslatorPipe:   [es→en] "tostados y molidos de los frutos de la planta del café" → "Roasted and ground of the fruits of the coffee plant" @ Rect(42, 1657 - 1025, 1695)
+09-23 02:15:23.114 28263 28414 I ScreenTranslatorPipe:   [es→en] "El café es una bebida que se obtiene mediante el" → "Coffee is a drink that is obtained through the" @ Rect(60, 1516 - 948, 1555)
+09-23 02:15:23.135 28263 28483 I ScreenTranslatorPipe:   [es→en] "URL es un enlace permanente a esta versión." → "URL is a permanent link to this version." @ Rect(152, 1106 - 982, 1145)
+09-23 02:15:23.173 28263 28483 I ScreenTranslatorPipe:   [es→en] "actual (difs.)· Revisión siguiente (difs.)" → "Current (Difs.) · Next review (DIFS.)" @ Rect(151, 1283 - 924, 1328)
+09-23 02:15:23.185 28263 28414 I ScreenTranslatorPipe:   [es→en] "Esta es la versión actual de esta página," → "This is the current version of this page," @ Rect(152, 901 - 891, 940)
+09-23 02:15:23.196 28263 28483 I ScreenTranslatorPipe:   [es→en] "bebida elaborada a base de granos de café" → "Coffee beans-based drink" @ Rect(44, 586 - 721, 618)
+09-23 02:15:23.219 28263 28483 I ScreenTranslatorPipe:   [es→en] "(cafeto); es altamente estimulante por su" → "(I coffee); It is highly stimulating for its" @ Rect(56, 1722 - 841, 1769)
+09-23 02:15:23.237 28263 28414 I ScreenTranslatorPipe:   [es→en] "consumidas por el ser humano (junto con el agua y el" → "consumed by the human being (along with water and the" @ Rect(44, 2001 - 1032, 2044)
+09-23 02:15:23.252 28263 28483 I ScreenTranslatorPipe:   [es→en] "percolado de agua caliente a través de los granos" → "hot water percolated through the grains" @ Rect(45, 1587 - 962, 1627)
+09-23 02:15:23.294 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [es]/low-conf(0.74) "Para otros usos de este término, véase Café (desambiguación)." → [und conf=0.00 cyr=15] "Para otros usos de este 1ёгптт!по, уёасе Са ё (desambiguaci6n)."
+09-23 02:15:23.294 28263 28809 I ScreenTranslatorPipe:   [und] "Para otros usos de este término, véase Café (desambiguación)." @ Rect(63, 1425 - 1015, 1457)
+09-23 02:15:23.398 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [es]/garbled "contenido de cafeína2 una sustancia psicoactiva3l" → [es conf=0.88 cyr=9] "contenido de cafeinal?! una sustancia рясоасиуа!"
+09-23 02:15:23.419 28263 28484 I ScreenTranslatorPipe:   [es→en] "contenido de cafeína2 una sustancia psicoactiva3l" → "Caffeine content2 A psychoactive substance3l" @ Rect(44, 1790 - 1003, 1833)
+09-23 02:15:23.424 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [es]/low-conf(0.84) "editada a las 15:02 22 sep 2026 por" → [es conf=0.84 cyr=0] "editada a las 15:02 22 sep 2026 por"
+09-23 02:15:23.425 28263 28809 I ScreenTranslatorPipe:   [und] "editada a las 15:02 22 sep 2026 por" @ Rect(150, 965 - 812, 1011)
+09-23 02:15:23.504 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.85) "es.wikipedia.org/w/index.php?c 26" → [en conf=0.91 cyr=0] "es.wikipedia.org/w/index.php?c"
+09-23 02:15:23.505 28263 28483 I ScreenTranslatorPipe:   [und] "es.wikipedia.org/w/index.php?c 26" @ Rect(222, 194 - 913, 234)
+09-23 02:15:23.522 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "E WIKIPEDIA" → [en conf=0.70 cyr=0] "= WIKIPEDIA"
+09-23 02:15:23.523 28263 28809 I ScreenTranslatorPipe:   [und] "E WIKIPEDIA" @ Rect(92, 325 - 452, 382)
+09-23 02:15:23.539 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [fr]/low-conf(0.85) "té)l21" → [und conf=0.00 cyr=1] "16)й!"
+09-23 02:15:23.540 28263 28809 I ScreenTranslatorPipe:   [und] "té)l21" @ Rect(41, 2062 - 126, 2116)
+09-23 02:15:23.548 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "ol" → [und conf=0.00 cyr=0] "a"
+09-23 02:15:23.549 28263 28414 I ScreenTranslatorPipe:   [und] "ol" @ Rect(996, 332 - 1034, 378)
+09-23 02:15:23.650 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [es]/low-conf(0.90) "~2026-5121 5-51 (discusión). La dirección" → [es conf=0.88 cyr=0] "-2026-51215-51 (discusion). La direccion"
+09-23 02:15:23.650 28263 28809 I ScreenTranslatorPipe:   [und] "~2026-5121 5-51 (discusión). La dirección" @ Rect(164, 1035 - 925, 1078)
+09-23 02:15:23.651 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Café" → [und conf=0.00 cyr=4] "СаГе"
+09-23 02:15:23.663 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Café" → [tg conf=0.78 cyr=4] "Сайё"
+09-23 02:15:23.758 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [es]/low-conf(0.83) "(difs.) - Revisión anterior Ver revisión" → [und conf=0.00 cyr=0] "(difs.) - Revision anterior - Ver revision"
+09-23 02:15:23.758 28263 28483 I ScreenTranslatorPipe:   [und] "(difs.) - Revisión anterior Ver revisión" @ Rect(152, 1211 - 882, 1258)
+09-23 02:15:23.778 28263 28483 I ScreenTranslatorPipe:   [und] "Café" @ Rect(46, 496 - 187, 550)
+09-23 02:15:23.811 28263 28483 I ScreenTranslatorPipe:   [ru→en] no-op "Сайё"; no card
+09-23 02:15:23.812 28263 28483 I ScreenTranslatorPipe:   [ru→en] "Сайё" → "?" @ Rect(503, 2188 - 578, 2216)
+09-23 02:15:23.812 28263 28483 I ScreenTranslatorPipe: language signal: counts={es=12} → es
+09-23 02:15:23.813 28263 28483 I ScreenTranslatorPipe: model prewarm [es→en]: ready=true in 0ms
+09-23 02:15:23.896 28263 28483 I ScreenTranslatorPipe: LID+NMT for 25 region(s) in 1254ms → 12 card(s)
+09-23 02:15:24.514 28263 28483 I ScreenTranslatorPipe: a11y walk capped at 500 nodes; 1 text nodes collected
+09-23 02:15:24.514 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:15:24.694 28263 28483 I ScreenTranslatorPipe: screen unchanged (hamming=0/256 in 1ms); reusing 12 card(s)

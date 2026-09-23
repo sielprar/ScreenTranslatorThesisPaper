@@ -1,0 +1,273 @@
+--------- beginning of main
+09-23 02:14:08.309 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:14:08.386 28263 28416 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:14:08.528 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:14:08.900 28263 28263 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=0 focus=1
+09-23 02:14:08.970 28263 28263 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 02:14:08.970 28263 28484 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:14:10.479 28263 28484 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 1193ms → 168 region(s)
+09-23 02:14:10.502 28263 28483 I ScreenTranslatorPipe:   [en/focus-skip] "Copy text from image X" @ Rect(392, 2088 - 786, 2131)
+09-23 02:14:10.517 28263 28809 I ScreenTranslatorPipe:   [en/focus-skip] "2s0 1p 550" @ Rect(736, 1191 - 798, 1210)
+09-23 02:14:10.545 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "WeunbiK M3 6apaHMHbİ C KypaosM CanOM 250/150/102 rp750" → "WeUnbik M3 6Apahmhbian C Kypaosm Canom 250/150/102 RP750" @ Rect(432, 1073 - 800, 1087)
+09-23 02:14:10.577 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Waunbix M3 CBMHMHbl C KpsMOKHM NyKOM 250/150/00 rp550"; no card
+09-23 02:14:10.577 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Waunbix M3 CBMHMHbl C KpsMOKHM NyKOM 250/150/00 rp550" → "?" @ Rect(434, 1037 - 798, 1055)
+09-23 02:14:10.605 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "KoTneTbI H3 oneHMHbl C niope w3 MOpKOBM"; no card
+09-23 02:14:10.605 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "KoTneTbI H3 oneHMHbl C niope w3 MOpKOBM" → "?" @ Rect(434, 938 - 691, 951)
+09-23 02:14:10.630 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "CreiK M3 roBAIMHbl C nMCTRMM M CBexMMM"; no card
+09-23 02:14:10.630 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "CreiK M3 roBAIMHbl C nMCTRMM M CBexMMM" → "?" @ Rect(434, 955 - 701, 967)
+09-23 02:14:10.653 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "CoexonsHwK psioHbIü C KpacHon þaconbO" → "COEXONSHWK PSIOHBYÜ C KPACHON þaconbo" @ Rect(58, 1258 - 316, 1274)
+09-23 02:14:10.684 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "peyeckeKCKDBIMCKM NyKOM nopexaM 240 rp 350"; no card
+09-23 02:14:10.685 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "peyeckeKCKDBIMCKM NyKOM nopexaM 240 rp 350" → "?" @ Rect(61, 1145 - 386, 1162)
+09-23 02:14:10.710 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Dwne cynaka c kaproenbHbIM rpareHOM"; no card
+09-23 02:14:10.710 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Dwne cynaka c kaproenbHbIM rpareHOM" → "?" @ Rect(433, 921 - 689, 933)
+09-23 02:14:10.733 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "KoTneTaI H3 Llykn c niope 3 6arara"; no card
+09-23 02:14:10.733 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "KoTneTaI H3 Llykn c niope 3 6arara" → "?" @ Rect(434, 904 - 651, 916)
+09-23 02:14:10.762 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "O ohotnichya_usadba Kizbaohotnika" → "O OHOTINICHYA_USADBA KIZBAOHOTNIKA" @ Rect(59, 839 - 344, 856)
+09-23 02:14:10.785 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "6opurc roBgnuvoRn rycrOn CMeTaHOA"; no card
+09-23 02:14:10.785 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "6opurc roBgnuvoRn rycrOn CMeTaHOA" → "?" @ Rect(48, 1219 - 292, 1239)
+09-23 02:14:10.813 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Eyprep c roeaxbeû KOTneTOR M cBexMMM"; no card
+09-23 02:14:10.813 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Eyprep c roeaxbeû KOTneTOR M cBexMMM" → "?" @ Rect(434, 1337 - 688, 1350)
+09-23 02:14:10.836 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Towhense uw yo kbaweHO9 KanycTal"; no card
+09-23 02:14:10.836 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Towhense uw yo kbaweHO9 KanycTal" → "?" @ Rect(53, 1239 - 277, 1256)
+09-23 02:14:10.863 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "WoKOnan HopoKeice, cpon, onceo250"; no card
+09-23 02:14:10.863 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "WoKOnan HopoKeice, cpon, onceo250" → "?" @ Rect(848, 1496 - 1063, 1512)
+09-23 02:14:10.898 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Byprep c KypwHbIM óeapoM cy-BMA" → "BYPREP C KYPWHBIM OEAPOM CY-BMA" @ Rect(434, 1405 - 655, 1419)
+09-23 02:14:10.923 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "250 rp 5503HAK B YAMHKKE S00 Mn"; no card
+09-23 02:14:10.923 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "250 rp 5503HAK B YAMHKKE S00 Mn" → "?" @ Rect(731, 1189 - 1042, 1210)
+09-23 02:14:10.943 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Fyibka CbMHas CTyueHOM KanycTOH"; no card
+09-23 02:14:10.944 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Fyibka CbMHas CTyueHOM KanycTOH" → "?" @ Rect(433, 989 - 656, 1004)
+09-23 02:14:10.964 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "CoK *PM4 accoprorTe 200 Mn 150"; no card
+09-23 02:14:10.964 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "CoK *PM4 accoprorTe 200 Mn 150" → "?" @ Rect(847, 1347 - 1058, 1360)
+09-23 02:14:10.983 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "MHnecTpOHe 4a kypMHOM ÓyNbOHe"; no card
+09-23 02:14:10.983 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "MHnecTpOHe 4a kypMHOM ÓyNbOHe" → "?" @ Rect(55, 1272 - 265, 1291)
+09-23 02:14:11.002 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Obauey xenauno M nprotoaw Baw"; no card
+09-23 02:14:11.002 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Obauey xenauno M nprotoaw Baw" → "?" @ Rect(856, 1165 - 1032, 1180)
+09-23 02:14:11.041 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "WWaunbK M3 roBRAMHbl c óonrapcox nepueM 250/1s0/101rp 850" → "WWAUNBK M3 Robramhbl C OONRAPCOX NEPUEM 250 / 1S0 / 101RP 850" @ Rect(428, 1058 - 798, 1071)
+09-23 02:14:11.065 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "3aneueHHbIâ ponn cnaûcn yropb" → "3AneuehHHBIÂ PONN cnaûcn YROPB" @ Rect(433, 1264 - 637, 1280)
+09-23 02:14:11.085 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "CANAT CyTKOR M BMHHOR Cpyuen"; no card
+09-23 02:14:11.085 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "CANAT CyTKOR M BMHHOR Cpyuen" → "?" @ Rect(48, 1074 - 252, 1096)
+09-23 02:14:11.105 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "howat, anensca, noKo, BHuNE" → "Howat, Ansca, Noko, Bhune" @ Rect(848, 1361 - 978, 1379)
+09-23 02:14:11.127 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "3aneveHHbIR ponn KanmoopHnA"; no card
+09-23 02:14:11.127 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "3aneveHHbIR ponn KanmoopHnA" → "?" @ Rect(433, 1215 - 630, 1229)
+09-23 02:14:11.146 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "KayóHKa opoooe cpon, ooo250"; no card
+09-23 02:14:11.146 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "KayóHKa opoooe cpon, ooo250" → "?" @ Rect(848, 1513 - 1061, 1532)
+09-23 02:14:11.163 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "MopoxHOe B accoptMMeHTe"; no card
+09-23 02:14:11.164 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "MopoxHOe B accoptMMeHTe" → "?" @ Rect(433, 1544 - 612, 1559)
+09-23 02:14:11.180 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "laujer W3 KypvHou neuenn"; no card
+09-23 02:14:11.180 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "laujer W3 KypvHou neuenn" → "?" @ Rect(50, 1018 - 221, 1031)
+09-23 02:14:11.219 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "WaunbiK M3 KypHOro 6eapa"; no card
+09-23 02:14:11.219 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "WaunbiK M3 KypHOro 6eapa" → "?" @ Rect(430, 1088 - 613, 1104)
+09-23 02:14:11.228 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Canar croAEHO CBVHAHOA"; no card
+09-23 02:14:11.228 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Canar croAEHO CBVHAHOA" → "?" @ Rect(52, 1160 - 231, 1180)
+09-23 02:14:11.243 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Ounanenbua c nOcOceM"; no card
+09-23 02:14:11.243 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Ounanenbua c nOcOceM" → "?" @ Rect(433, 1164 - 595, 1177)
+09-23 02:14:11.260 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Tpeanopyr / PoaMapnH"; no card
+09-23 02:14:11.260 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Tpeanopyr / PoaMapnH" → "?" @ Rect(848, 978 - 974, 997)
+09-23 02:14:11.275 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "TleHHe ana-appaóMara"; no card
+09-23 02:14:11.275 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "TleHHe ana-appaóMara" → "?" @ Rect(49, 1399 - 190, 1418)
+09-23 02:14:11.293 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "-vepHblM AccaM, Ceua"; no card
+09-23 02:14:11.293 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "-vepHblM AccaM, Ceua" → "?" @ Rect(849, 1213 - 980, 1230)
+09-23 02:14:11.312 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "PxaHoR KhaccMveCKMa"; no card
+09-23 02:14:11.312 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "PxaHoR KhaccMveCKMa" → "?" @ Rect(48, 1524 - 193, 1539)
+09-23 02:14:11.324 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "TOM-AM C KpeBerKaMM"; no card
+09-23 02:14:11.324 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "TOM-AM C KpeBerKaMM" → "?" @ Rect(50, 1311 - 188, 1325)
+09-23 02:14:11.336 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "KanvoopHMA C KpaóOM"; no card
+09-23 02:14:11.336 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "KanvoopHMA C KpaóOM" → "?" @ Rect(434, 1181 - 577, 1195)
+09-23 02:14:11.349 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Ounagenboua C yrpeM"; no card
+09-23 02:14:11.349 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Ounagenboua C yrpeM" → "?" @ Rect(434, 1199 - 576, 1211)
+09-23 02:14:11.360 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Bae opRGR opon Mooo"; no card
+09-23 02:14:11.360 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Bae opRGR opon Mooo" → "?" @ Rect(847, 1531 - 1013, 1548)
+09-23 02:14:11.376 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "opaHuy3cKMe óynouKn"; no card
+09-23 02:14:11.376 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "opaHuy3cKMe óynouKn" → "?" @ Rect(433, 1524 - 573, 1542)
+09-23 02:14:11.388 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "350 rp 450 EYPrEPbI"; no card
+09-23 02:14:11.388 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "350 rp 450 EYPrEPbI" → "?" @ Rect(324, 1301 - 518, 1324)
+09-23 02:14:11.401 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "350 rp 350oAECEPTEI" → "350 RP 350Oeceptei" @ Rect(321, 1442 - 523, 1466)
+09-23 02:14:11.415 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "CnarertM 6onOHBe3e"; no card
+09-23 02:14:11.415 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "CnarertM 6onOHBe3e" → "?" @ Rect(50, 1368 - 181, 1380)
+09-23 02:14:11.430 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "250/150/103 rp 550"; no card
+09-23 02:14:11.431 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "250/150/103 rp 550" → "?" @ Rect(689, 1091 - 798, 1106)
+09-23 02:14:11.442 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Kona/ aHTa /Cnpeûr"; no card
+09-23 02:14:11.442 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Kona/ aHTa /Cnpeûr" → "?" @ Rect(848, 1414 - 976, 1428)
+09-23 02:14:11.475 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "- ManMHa/ poaMapWH"; no card
+09-23 02:14:11.475 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "- ManMHa/ poaMapWH" → "?" @ Rect(849, 1265 - 966, 1278)
+09-23 02:14:11.496 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "250/150/1o0 rp 55O"; no card
+09-23 02:14:11.496 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "250/150/1o0 rp 55O" → "?" @ Rect(688, 1039 - 798, 1053)
+09-23 02:14:11.509 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "oeryuHM KapóoHapa" → "Oeryuhm Kapohapa" @ Rect(47, 1383 - 184, 1398)
+09-23 02:14:11.529 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1019ms
+09-23 02:14:11.530 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Exesxa / KnyóHuKa"; no card
+09-23 02:14:11.530 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Exesxa / KnyóHuKa" → "?" @ Rect(848, 1000 - 959, 1013)
+09-23 02:14:11.539 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1029ms
+09-23 02:14:11.539 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Benal KnacchuecMa"; no card
+09-23 02:14:11.539 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Benal KnacchuecMa" → "?" @ Rect(58, 1507 - 184, 1524)
+09-23 02:14:11.551 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1041ms
+09-23 02:14:11.551 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "OxoTHHYEa Ycanbőa"; no card
+09-23 02:14:11.552 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "OxoTHHYEa Ycanbőa" → "?" @ Rect(871, 869 - 1038, 887)
+09-23 02:14:11.565 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1056ms
+09-23 02:14:11.565 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Wsenc bTrep NeMoH"; no card
+09-23 02:14:11.565 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Wsenc bTrep NeMoH" → "?" @ Rect(848, 1434 - 969, 1446)
+09-23 02:14:11.577 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1067ms
+09-23 02:14:11.577 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "- sónoHHbiứ rupor"; no card
+09-23 02:14:11.578 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "- sónoHHbiứ rupor" → "?" @ Rect(850, 1298 - 945, 1312)
+09-23 02:14:11.588 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1079ms
+09-23 02:14:11.589 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "ynfynaU SToBAAMHb"; no card
+09-23 02:14:11.589 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "ynfynaU SToBAAMHb" → "?" @ Rect(63, 1290 - 198, 1306)
+09-23 02:14:11.602 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1092ms
+09-23 02:14:11.602 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "essps oKpeeerkoMW"; no card
+09-23 02:14:11.602 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "essps oKpeeerkoMW" → "?" @ Rect(49, 1110 - 186, 1130)
+09-23 02:14:11.612 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1102ms
+09-23 02:14:11.613 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Llesapb okypnuen"; no card
+09-23 02:14:11.613 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Llesapb okypnuen" → "?" @ Rect(52, 1128 - 166, 1146)
+09-23 02:14:11.623 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1113ms
+09-23 02:14:11.623 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "ATHTaCTH CHIDHOe"; no card
+09-23 02:14:11.623 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "ATHTaCTH CHIDHOe" → "?" @ Rect(50, 963 - 172, 978)
+09-23 02:14:11.624 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1113ms
+09-23 02:14:11.624 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "MACo/ITKIA/P5IBA"; no card
+09-23 02:14:11.624 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "MACo/ITKIA/P5IBA" → "?" @ Rect(444, 868 - 629, 885)
+09-23 02:14:11.636 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1125ms
+09-23 02:14:11.637 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "5aret nuieHWHbIA"; no card
+09-23 02:14:11.638 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "5aret nuieHWHbIA" → "?" @ Rect(49, 1544 - 161, 1557)
+09-23 02:14:11.647 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1135ms
+09-23 02:14:11.648 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "LACTA / IMIiIbI"; no card
+09-23 02:14:11.648 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "LACTA / IMIiIbI" → "?" @ Rect(60, 1333 - 201, 1352)
+09-23 02:14:11.660 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1148ms
+09-23 02:14:11.662 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "lMuua nennepoHM"; no card
+09-23 02:14:11.662 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "lMuua nennepoHM" → "?" @ Rect(48, 1452 - 165, 1466)
+09-23 02:14:11.670 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1158ms
+09-23 02:14:11.671 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "KOHQM C wadpaOM"; no card
+09-23 02:14:11.671 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "KOHQM C wadpaOM" → "?" @ Rect(532, 1001 - 652, 1024)
+09-23 02:14:11.682 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1170ms
+09-23 02:14:11.682 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Mopc knioKBeHbI"; no card
+09-23 02:14:11.682 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Mopc knioKBeHbI" → "?" @ Rect(847, 1448 - 947, 1463)
+09-23 02:14:11.691 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1179ms
+09-23 02:14:11.691 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "MMIIK IEMKM sON"; no card
+09-23 02:14:11.691 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "MMIIK IEMKM sON" → "?" @ Rect(858, 1474 - 1024, 1495)
+09-23 02:14:11.700 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1187ms
+09-23 02:14:11.702 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Burenno TOHaTO"; no card
+09-23 02:14:11.702 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Burenno TOHaTO" → "?" @ Rect(47, 983 - 150, 998)
+09-23 02:14:11.708 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1195ms
+09-23 02:14:11.709 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "- o6nenXa /Men"; no card
+09-23 02:14:11.709 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "- o6nenXa /Men" → "?" @ Rect(850, 1279 - 946, 1296)
+09-23 02:14:11.720 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1207ms
+09-23 02:14:11.721 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "0 1a590 POIIbI"; no card
+09-23 02:14:11.721 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "0 1a590 POIIbI" → "?" @ Rect(332, 1126 - 501, 1148)
+09-23 02:14:11.730 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1217ms
+09-23 02:14:11.730 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Ha6op 6pycKer"; no card
+09-23 02:14:11.730 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Ha6op 6pycKer" → "?" @ Rect(50, 900 - 152, 920)
+09-23 02:14:11.742 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1229ms
+09-23 02:14:11.742 28263 28483 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1228ms
+09-23 02:14:11.742 28263 28483 I ScreenTranslatorPipe:   [ru→en] no-op "AnxancaHAant"; no card
+09-23 02:14:11.743 28263 28483 I ScreenTranslatorPipe:   [ru/focus→en] "AnxancaHAant" → "?" @ Rect(49, 1000 - 145, 1015)
+09-23 02:14:11.743 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "/pba, ca, ne"; no card
+09-23 02:14:11.743 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "/pba, ca, ne" → "?" @ Rect(52, 914 - 129, 933)
+09-23 02:14:11.758 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1243ms
+09-23 02:14:11.758 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "TnHTBeRH 6/a"; no card
+09-23 02:14:11.758 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "TnHTBeRH 6/a" → "?" @ Rect(848, 1080 - 927, 1092)
+09-23 02:14:11.768 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1254ms
+09-23 02:14:11.769 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "HAIKTKV 6/a"; no card
+09-23 02:14:11.770 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "HAIKTKV 6/a" → "?" @ Rect(855, 1056 - 971, 1075)
+09-23 02:14:11.776 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1262ms
+09-23 02:14:11.776 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "AccaM, Ceua"; no card
+09-23 02:14:11.776 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "AccaM, Ceua" → "?" @ Rect(908, 1210 - 980, 1227)
+09-23 02:14:11.784 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1270ms
+09-23 02:14:11.784 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "s8o rp 380"; no card
+09-23 02:14:11.784 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "s8o rp 380" → "?" @ Rect(320, 1166 - 388, 1180)
+09-23 02:14:11.792 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1276ms
+09-23 02:14:11.792 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "300 rp 290"; no card
+09-23 02:14:11.792 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "300 rp 290" → "?" @ Rect(321, 1226 - 387, 1238)
+09-23 02:14:11.798 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1283ms
+09-23 02:14:11.798 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "300 rp 350"; no card
+09-23 02:14:11.798 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "300 rp 350" → "?" @ Rect(321, 1258 - 387, 1274)
+09-23 02:14:11.806 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1291ms
+09-23 02:14:11.806 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "310 rp 350"; no card
+09-23 02:14:11.807 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "310 rp 350" → "?" @ Rect(321, 1385 - 389, 1400)
+09-23 02:14:11.812 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1297ms
+09-23 02:14:11.812 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "350 rp L80"; no card
+09-23 02:14:11.812 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "350 rp L80" → "?" @ Rect(734, 918 - 797, 931)
+09-23 02:14:11.818 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1303ms
+09-23 02:14:11.820 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "300 ro 850"; no card
+09-23 02:14:11.821 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "300 ro 850" → "?" @ Rect(733, 952 - 797, 965)
+09-23 02:14:11.832 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1317ms
+09-23 02:14:11.832 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "240 rp 390"; no card
+09-23 02:14:11.833 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "240 rp 390" → "?" @ Rect(734, 1263 - 797, 1279)
+09-23 02:14:11.843 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1328ms
+09-23 02:14:11.843 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "320 rp 450"; no card
+09-23 02:14:11.843 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "320 rp 450" → "?" @ Rect(733, 1335 - 798, 1351)
+09-23 02:14:11.847 28263 28483 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1331ms
+09-23 02:14:11.847 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1331ms
+09-23 02:14:11.847 28263 28483 I ScreenTranslatorPipe:   [ru→en] no-op "JIMMOHAIHI"; no card
+09-23 02:14:11.847 28263 28483 I ScreenTranslatorPipe:   [ru/focus→en] "JIMMOHAIHI" → "?" @ Rect(848, 963 - 962, 978)
+09-23 02:14:11.848 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "100 rp 150"; no card
+09-23 02:14:11.848 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "100 rp 150" → "?" @ Rect(733, 1526 - 795, 1539)
+09-23 02:14:11.857 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1341ms
+09-23 02:14:11.857 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "270 rp 490"; no card
+09-23 02:14:11.857 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "270 rp 490" → "?" @ Rect(735, 1163 - 799, 1176)
+09-23 02:14:11.863 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1346ms
+09-23 02:14:11.863 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "220 rp 290"; no card
+09-23 02:14:11.863 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "220 rp 290" → "?" @ Rect(735, 1181 - 797, 1194)
+09-23 02:14:11.867 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1351ms
+09-23 02:14:11.867 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "100 Mn 100"; no card
+09-23 02:14:11.867 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "100 Mn 100" → "?" @ Rect(995, 1115 - 1059, 1127)
+09-23 02:14:11.875 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1359ms
+09-23 02:14:11.876 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "225 rp 290"; no card
+09-23 02:14:11.876 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "225 rp 290" → "?" @ Rect(735, 1217 - 796, 1230)
+09-23 02:14:11.883 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1367ms
+09-23 02:14:11.883 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "330 Mn 200"; no card
+09-23 02:14:11.883 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "330 Mn 200" → "?" @ Rect(998, 1414 - 1060, 1428)
+09-23 02:14:11.890 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1373ms
+09-23 02:14:11.890 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "300 rp 290"; no card
+09-23 02:14:11.890 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "300 rp 290" → "?" @ Rect(320, 1277 - 386, 1289)
+09-23 02:14:11.898 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1381ms
+09-23 02:14:11.898 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "310 rp 320"; no card
+09-23 02:14:11.898 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "310 rp 320" → "?" @ Rect(327, 1368 - 393, 1381)
+09-23 02:14:11.908 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1390ms
+09-23 02:14:11.908 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "300 rp 450"; no card
+09-23 02:14:11.908 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "300 rp 450" → "?" @ Rect(733, 903 - 798, 916)
+09-23 02:14:11.914 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1397ms
+09-23 02:14:11.915 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "200 Mn 180"; no card
+09-23 02:14:11.915 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "200 Mn 180" → "?" @ Rect(993, 1017 - 1058, 1029)
+09-23 02:14:11.916 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1399ms
+09-23 02:14:11.916 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Tponwk-Qu3"; no card
+09-23 02:14:11.916 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Tponwk-Qu3" → "?" @ Rect(847, 1034 - 913, 1046)
+09-23 02:14:11.922 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1404ms
+09-23 02:14:11.922 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "Bo ro 590"; no card
+09-23 02:14:11.922 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "Bo ro 590" → "?" @ Rect(326, 964 - 394, 979)
+09-23 02:14:11.928 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1409ms
+09-23 02:14:11.928 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "310 rp 420"; no card
+09-23 02:14:11.928 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "310 rp 420" → "?" @ Rect(735, 1404 - 799, 1417)
+09-23 02:14:11.935 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1417ms
+09-23 02:14:11.936 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "200 ro290"; no card
+09-23 02:14:11.945 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "200 ro290" → "?" @ Rect(323, 1095 - 388, 1109)
+09-23 02:14:11.950 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1432ms
+09-23 02:14:11.950 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "350 rp290"; no card
+09-23 02:14:11.950 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "350 rp290" → "?" @ Rect(324, 1242 - 390, 1255)
+09-23 02:14:11.957 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1437ms
+09-23 02:14:11.957 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "150 rp200"; no card
+09-23 02:14:11.957 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "150 rp200" → "?" @ Rect(733, 1544 - 803, 1557)
+09-23 02:14:11.969 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1449ms
+09-23 02:14:11.969 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "MHbl ynyH"; no card
+09-23 02:14:11.969 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "MHbl ynyH" → "?" @ Rect(889, 1233 - 942, 1246)
+09-23 02:14:11.970 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1449ms
+09-23 02:14:11.970 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "AMepwkaHO"; no card
+09-23 02:14:11.970 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "AMepwkaHO" → "?" @ Rect(848, 1115 - 912, 1127)
+09-23 02:14:11.977 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=1ms inference=1456ms
+09-23 02:14:11.977 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "200 Mn200"; no card
+09-23 02:14:11.977 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "200 Mn200" → "?" @ Rect(996, 1079 - 1062, 1091)
+09-23 02:14:11.985 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1464ms
+09-23 02:14:11.985 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "SOTo 1 50"; no card
+09-23 02:14:11.986 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "SOTo 1 50" → "?" @ Rect(324, 1508 - 388, 1521)
+09-23 02:14:11.991 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1470ms
+09-23 02:14:11.991 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "300 p 490"; no card
+09-23 02:14:11.992 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "300 p 490" → "?" @ Rect(732, 936 - 797, 949)
+09-23 02:14:11.992 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1471ms
+09-23 02:14:11.992 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "nOMAIIHVE"; no card
+09-23 02:14:11.992 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "nOMAIIHVE" → "?" @ Rect(846, 940 - 960, 955)
+09-23 02:14:12.002 28263 28413 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1481ms
+09-23 02:14:12.002 28263 28413 I ScreenTranslatorPipe:   [ru→en] no-op "168rp 390"; no card
+09-23 02:14:12.002 28263 28483 I ScreenTranslatorPipe: translation timing [ru→en]: model=0ms inference=1480ms
+09-23 02:14:12.002 28263 28413 I ScreenTranslatorPipe:   [ru/focus→en] "168rp 390" → "?" @ Rect(320, 902 - 391, 917)
+09-23 02:14:12.002 28263 28483 I ScreenTranslatorPipe:   [ru→en] no-op "CAJIATEI"; no card
+09-23 02:14:12.002 28263 28483 I ScreenTranslatorPipe:   [ru/focus→en] "CAJIATEI" → "?" @ Rect(63, 1044 - 131, 1065)
+09-23 02:14:12.003 28263 28413 I ScreenTranslatorPipe: language signal: counts={ru=9} → ru
+09-23 02:14:12.005 28263 28809 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 1ms
+09-23 02:14:12.030 28263 28809 I ScreenTranslatorPipe: LID+NMT for 120 region(s) in 1525ms → 9 card(s)
+09-23 02:14:12.030 28263 28809 I ScreenTranslatorPipe:   … 48 more region(s) skipped

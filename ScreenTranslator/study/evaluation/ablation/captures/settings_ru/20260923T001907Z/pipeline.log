@@ -1,0 +1,6 @@
+--------- beginning of main
+09-23 02:19:16.491  3221  3221 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:19:16.540  3221  3250 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 1ms
+09-23 02:19:16.658  3221  3221 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:19:17.020  3221  3221 I ScreenTranslatorEval: flags a11y=0 multiscale=1 tesseract=1 focus=1
+09-23 02:19:17.062  3221  3250 I ScreenTranslatorPipe: a11y fast-path 16 node(s) → 15 card(s) in 524ms

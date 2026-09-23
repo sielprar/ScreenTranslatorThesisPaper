@@ -1,0 +1,2 @@
+frame_id,ts_ms,pkg,path,total_ms,harvest_ms,root_ms,walk_ms,hash_ms,ocr_ms,nmt_ms,overlay_ms,n_regions,n_cards,ocr_raw,ocr_kept,ocr_w,ocr_h,ocr_scale
+1,1790118670141,com.android.settings,a11y_full,1857,273,17,256,0,0,1110,20,16,15,0,0,0,0,1.0

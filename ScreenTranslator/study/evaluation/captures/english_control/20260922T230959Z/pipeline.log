@@ -1,0 +1,14 @@
+--------- beginning of main
+09-23 01:10:08.164  3216  3216 I ScreenTranslatorA11y: Accessibility service connected
+09-23 01:10:08.276  3216  3313 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 9ms
+09-23 01:10:08.435  3216  3216 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 01:10:08.489  3216  6135 I ScreenTranslatorPipe: a11y fast-path 16 node(s) → 0 card(s) in 225ms
+09-23 01:10:09.127  3216  6135 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 571ms → 19 region(s)
+09-23 01:10:09.130  3216  3313 I ScreenTranslatorPipe:   [en] "62% used -6.10 GB free" @ Rect(191, 2067 - 578, 2102)
+09-23 01:10:09.134  3216  6135 I ScreenTranslatorPipe:   [en] "a Search settings" @ Rect(100, 638 - 550, 699)
+09-23 01:10:09.333  3216  6135 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Mobile, VWi-Fi, hotspot" → [en conf=0.87 cyr=0] "Mobile, Wi-Fi, hotspot"
+09-23 01:10:09.333  3216  6135 I ScreenTranslatorPipe:   [und] "Mobile, VWi-Fi, hotspot" @ Rect(191, 912 - 538, 950)
+09-23 01:10:09.347  3216  6136 I ScreenTranslatorPipe:   tesseract tried on [und]/und "LoD" → [km conf=0.68 cyr=0] "(50"
+09-23 01:10:09.347  3216  6136 I ScreenTranslatorPipe:   [und] "LoD" @ Rect(87, 1109 - 144, 1146)
+09-23 01:10:09.347  3216  6136 I ScreenTranslatorPipe: language signal: counts={} → no suggestion
+09-23 01:10:09.348  3216  6136 I ScreenTranslatorPipe: LID+NMT for 19 region(s) in 220ms → 0 card(s)

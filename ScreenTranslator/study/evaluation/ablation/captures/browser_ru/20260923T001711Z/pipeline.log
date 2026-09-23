@@ -1,0 +1,33 @@
+--------- beginning of main
+09-23 02:17:29.324 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:17:29.401 28263 28483 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 1ms
+09-23 02:17:29.722 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:17:29.899 28263 28263 I ScreenTranslatorEval: flags a11y=0 multiscale=1 tesseract=1 focus=1
+09-23 02:17:30.071 28263 28809 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:17:30.071 28263 28263 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 02:17:30.791 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:17:31.589 28263 28483 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 626ms → 22 region(s)
+09-23 02:17:31.838 28263 28809 I ScreenTranslatorPipe:   [ru/focus→en] "СоколовМихаил (обс.) всё же это не статья" → "Sokolmikhail (OKD.) Nevertheless, this is not an article" @ Rect(151, 1093 - 989, 1135)
+09-23 02:17:31.885 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] "У этого термина существуют и другие значения, см. Кофе" → "This term has other meanings, see Coffee" @ Rect(62, 1645 - 984, 1676)
+09-23 02:17:31.909 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] ". Вы просматриваете постоянную ссылку" → ". You are viewing a permanent link." @ Rect(157, 1233 - 968, 1273)
+09-23 02:17:31.963 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] "напиток из жареных и перемолотых зёрен" → "Drink of fried and ground green" @ Rect(45, 1934 - 883, 1972)
+09-23 02:17:32.048 28263 28414 I ScreenTranslatorPipe:   [ru/focus→en] "Кофейные зёрна)" → "Coffee Oil)" @ Rect(150, 1162 - 485, 1204)
+09-23 02:17:32.074 28263 28483 I ScreenTranslatorPipe:   [ru/focus→en] "(значения)." → "(value)." @ Rect(62, 1700 - 237, 1733)
+09-23 02:17:32.152 28263 28809 I ScreenTranslatorPipe:   [ru/focus→en] "на эту версию." → "on this version." @ Rect(152, 1308 - 435, 1340)
+09-23 02:17:32.211 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] "кофейного дерева или кофейного куста." → "Coffee tree or coffee bush." @ Rect(55, 2000 - 836, 2046)
+09-23 02:17:32.275 28263 28414 I ScreenTranslatorPipe:   [ru/focus→en] "Кбфе (от араб. & 48 (дапуха/даТа), через" → "CBFE (from Arab & 48 (Daphah / Date), through" @ Rect(45, 1789 - 827, 1838)
+09-23 02:17:32.335 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] "А Это текущая версия страницы," → "And this is the current version of the page," @ Rect(79, 889 - 768, 937)
+09-23 02:17:32.396 28263 28416 I ScreenTranslatorPipe:   [ru/focus→en] "(отмена правки 153564235 участника" → "(Cancel of Edit 153564235" @ Rect(151, 1026 - 879, 1068)
+09-23 02:17:32.414 28263 28416 I ScreenTranslatorPipe:   [ru/focus→en] "Статья Обсуждение" → "Article discussion" @ Rect(43, 623 - 410, 657)
+09-23 02:17:32.508 28263 28414 I ScreenTranslatorPipe:   [ru/focus→en] "(разн.)" → "(diff.)" @ Rect(151, 1498 - 277, 1546)
+09-23 02:17:32.524 28263 28416 I ScreenTranslatorPipe:   [ru/focus→en] "Кофе" → "Coffee" @ Rect(45, 496 - 218, 568)
+09-23 02:17:32.532 28263 28414 I ScreenTranslatorPipe:   [ru/focus→en] "Кофе" → "Coffee" @ Rect(488, 2113 - 596, 2158)
+09-23 02:17:32.606 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] "версия (разн.) Следующая версия" → "Version (different.) Next version" @ Rect(166, 1437 - 889, 1481)
+09-23 02:17:32.683 28263 28416 I ScreenTranslatorPipe:   [ru/focus→en] "нид. Коййе, англ. сойее и устар. кофий, кофей'!!)" → "нид. Koyye, English. Sweeee and the statute. Cofi, coffee '!!)" @ Rect(45, 1858 - 1009, 1903)
+09-23 02:17:32.777 28263 28412 I ScreenTranslatorPipe:   [ru/focus→en] "сохранённая Г МТС в 11:40, 16 июня 2026" → "Saved MTS at 11:40, June 16, 2026" @ Rect(150, 955 - 961, 997)
+09-23 02:17:32.924 28263 28414 I ScreenTranslatorPipe:   [ru/focus→en] "(разн.) - Предыдущая версия Текущая" → "(different.) - Previous version of the current" @ Rect(152, 1367 - 949, 1413)
+09-23 02:17:33.034 28263 28412 I ScreenTranslatorPipe: language signal: counts={ru=19} → ru
+09-23 02:17:33.035 28263 28412 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:17:33.044 28263 28483 I ScreenTranslatorPipe: LID+NMT for 22 region(s) in 1445ms → 19 card(s)
+09-23 02:17:33.284 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:17:33.444 28263 28483 I ScreenTranslatorPipe: screen unchanged (hamming=0/256 in 0ms); reusing 19 card(s)

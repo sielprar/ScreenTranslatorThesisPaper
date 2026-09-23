@@ -1,0 +1,46 @@
+--------- beginning of main
+09-23 02:46:28.889 23100 23100 I ScreenTranslatorEval: flags a11y=0 multiscale=1 tesseract=1 focus=1
+09-23 02:46:29.150 23100 23100 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:46:29.282 23100 23133 I ScreenTranslatorPipe: model prewarm [es→en]: ready=true in 0ms
+09-23 02:46:29.576 23100 23100 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:46:31.626 23100 23131 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1,00) in 1571ms → 20 region(s)
+09-23 02:46:31.977 23100 23133 I ScreenTranslatorPipe:   [ru/comic] read "Громкость, виброотклик, режим "Не" (ML Kit "TpoMKOCTb, BMópooTKIMK, PexMM "He") @ Rect(192, 2307 - 811, 2343)
+09-23 02:46:32.061 23100 23131 I ScreenTranslatorPipe:   [ru/comic] read "Занято 62 %, свободно 6,07 ГБ" (ML Kit "3aHATO 62 %, CBO6oņHo 6,07 r6") @ Rect(190, 2088 - 709, 2122)
+09-23 02:46:32.064 23100 23131 I ScreenTranslatorPipe: model ready [ru→en] in 79ms
+09-23 02:46:32.134 23100 23132 I ScreenTranslatorPipe:   [ru/comic] read "История уведомлений, разговоры" (ML Kit "McTopuA yBenomneHMM, pasrOBopbl") @ Rect(192, 1627 - 777, 1662)
+09-23 02:46:32.136 23100 24685 I ScreenTranslatorPipe:   [ru/comic] read "Подключенные устройства" (ML Kit "logknio4eHHble ycTpoMcTBa") @ Rect(194, 1082 - 869, 1130)
+09-23 02:46:32.184 23100 23130 I ScreenTranslatorPipe:   [ru/comic] read "Уведомления" (ML Kit "YBenoMneHMA") @ Rect(192, 1562 - 526, 1607)
+09-23 02:46:32.251 23100 23132 I ScreenTranslatorPipe:   [ru/comic] read "Настройки" (ML Kit "HacTpoúKM") @ Rect(71, 442 - 539, 529)
+09-23 02:46:32.251 23100 24685 I ScreenTranslatorPipe:   [ru/comic] read "Звук и вибрация" (ML Kit "3ByK M Bnópayna") @ Rect(190, 2240 - 596, 2291)
+09-23 02:46:32.252 23100 23133 I ScreenTranslatorPipe:   [ru/comic] read "Батарея" (ML Kit "BatapesA") @ Rect(191, 1790 - 387, 1842)
+09-23 02:46:32.301 23100 23131 I ScreenTranslatorPipe:   [ru/comic] read "Приложения" (ML Kit "TlpunoKeHMA") @ Rect(193, 1301 - 504, 1348)
+09-23 02:46:32.346 23100 23133 I ScreenTranslatorPipe:   [ru/comic] read "Хранилище" (ML Kit "XpaHunnye") @ Rect(190, 2023 - 474, 2072)
+09-23 02:46:32.427 23100 23133 I ScreenTranslatorPipe:   [ru/comic] read "беспокоить'." (ML Kit "6ecnokOMTb"") @ Rect(191, 2350 - 391, 2378)
+09-23 02:46:32.442 23100 24685 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0,91) "Bluetooth, nogkNioyeHne" → [ru conf=0,96 cyr=11] "Bluetooth, подключение"
+09-23 02:46:32.445 23100 24685 I ScreenTranslatorPipe:   [und] "Bluetooth, nogkNioyeHne" @ Rect(192, 1146 - 596, 1180)
+09-23 02:46:32.495 23100 23130 I ScreenTranslatorPipe:   [ru/comic] read "Ассистент, недавние приложения, приложения" (ML Kit "AccuCTeHT, HenaBHMe npMNOKeHVA, npunoKeHMA") @ Rect(190, 1366 - 1000, 1401)
+09-23 02:46:32.510 23100 24686 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0,85) "CeTb M MHTepHeT" → [und conf=0,00 cyr=9] "CeTb И интернет"
+09-23 02:46:32.510 23100 24686 I ScreenTranslatorPipe:   [und] "CeTb M MHTepHeT" @ Rect(191, 848 - 588, 899)
+09-23 02:46:32.552 23100 23130 I ScreenTranslatorPipe:   tesseract tried on [es]/low-conf(0,87) "no yMOn4aHMIO" → [ru conf=0,99 cyr=11] "по умолчанию"
+09-23 02:46:32.552 23100 23130 I ScreenTranslatorPipe:   [und] "no yMOn4aHMIO" @ Rect(204, 1409 - 438, 1442)
+09-23 02:46:32.563 23100 24685 I ScreenTranslatorPipe:   [ru/comic] read "@, Поиск настроек" (ML Kit "Q MouCK HacTpoek") @ Rect(101, 642 - 587, 700)
+09-23 02:46:32.589 23100 24686 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Lo0" → [km conf=0,68 cyr=0] "(50"
+09-23 02:46:32.589 23100 24686 I ScreenTranslatorPipe:   [und] "Lo0" @ Rect(87, 1110 - 143, 1146)
+09-23 02:46:32.591 23100 23132 I ScreenTranslatorPipe:   [ru/comic] read "Мобильный интернет, ///-А,, точка доступа" (ML Kit "Mo6MNbHbIŽ MHTepHeT, Wi-Fi, TOYKa AocTyna") @ Rect(211, 911 - 918, 952)
+09-23 02:46:32.895 23100 23132 I ScreenTranslatorPipe:   [ru→en] "Громкость, виброотклик, режим "Не" → "Volume, vibrootkalklik, mode "not" @ Rect(192, 2307 - 811, 2343)
+09-23 02:46:32.920 23100 24686 I ScreenTranslatorPipe:   [ru→en] "Занято 62 %, свободно 6,07 ГБ" → "Busy 62%, free 6.07 GB" @ Rect(190, 2088 - 709, 2122)
+09-23 02:46:32.942 23100 24685 I ScreenTranslatorPipe:   [ru→en] "История уведомлений, разговоры" → "History of notifications, conversations" @ Rect(192, 1627 - 777, 1662)
+09-23 02:46:32.952 23100 23132 I ScreenTranslatorPipe:   [ru→en] "Подключенные устройства" → "Connected devices" @ Rect(194, 1082 - 869, 1130)
+09-23 02:46:32.953 23100 23133 I ScreenTranslatorPipe:   [ru→en] "Уведомления" → "Alert" @ Rect(192, 1562 - 526, 1607)
+09-23 02:46:32.954 23100 24686 I ScreenTranslatorPipe:   [ru→en] "Настройки" → "Settings" @ Rect(71, 442 - 539, 529)
+09-23 02:46:33.001 23100 23133 I ScreenTranslatorPipe:   [ru→en] "Звук и вибрация" → "Sound and vibration" @ Rect(190, 2240 - 596, 2291)
+09-23 02:46:33.023 23100 24685 I ScreenTranslatorPipe:   [ru→en] "Батарея" → "Battery" @ Rect(191, 1790 - 387, 1842)
+09-23 02:46:33.062 23100 24685 I ScreenTranslatorPipe:   [ru→en] "Приложения" → "The application" @ Rect(193, 1301 - 504, 1348)
+09-23 02:46:33.077 23100 23132 I ScreenTranslatorPipe:   [ru→en] "Хранилище" → "Storage" @ Rect(190, 2023 - 474, 2072)
+09-23 02:46:33.078 23100 23133 I ScreenTranslatorPipe:   [ru→en] "беспокоить'." → "bother '." @ Rect(191, 2350 - 391, 2378)
+09-23 02:46:33.090 23100 23133 I ScreenTranslatorPipe:   [ru→en] "Ассистент, недавние приложения, приложения" → "Assistant, recent applications, applications" @ Rect(190, 1366 - 1000, 1401)
+09-23 02:46:33.103 23100 24686 I ScreenTranslatorPipe:   [ru→en] "@, Поиск настроек" → "@, Search for settings" @ Rect(101, 642 - 587, 700)
+09-23 02:46:33.107 23100 23132 I ScreenTranslatorPipe:   [ru→en] "Мобильный интернет, ///-А,, точка доступа" → "Mobile Internet, /// - A ,, Access Point" @ Rect(211, 911 - 918, 952)
+09-23 02:46:33.148 23100 23132 I ScreenTranslatorPipe: language signal: counts={ru=14} → ru
+09-23 02:46:33.149 23100 24686 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:46:33.216 23100 24686 I ScreenTranslatorPipe: LID+NMT for 20 region(s) in 1524ms → 14 card(s)

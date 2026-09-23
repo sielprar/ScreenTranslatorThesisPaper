@@ -1,0 +1,246 @@
+case_id,unit_id,source_text,eligible,detected,correct,placed,observed_text,notes
+menu_ru,ru001,ЗАКУСКИ,1,0,0,0,,h≈18px heading; no OCR region/card
+menu_ru,ru002,Набор брускетт,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru003,"/рыба, мясо, печенные овощи/",1,0,0,0,,h≈9px small; no OCR region/card
+menu_ru,ru004,Антипасти рыбное,1,1,0,0,Dram will give fish about,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru005,Антипасти мясное,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru006,Антипасти сырное,1,1,0,0,Amphipasta raw,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru007,Вителло Тонато,1,1,0,0,Watto Tonato,h≈13px body; dish name: transliteration would count; card taller than line pitch; hides neighbouring lines
+menu_ru,ru008,Аджапсандали,1,1,0,0,Adjaps Nel,h≈13px body; dish name: transliteration would count; card taller than line pitch; hides neighbouring lines
+menu_ru,ru009,Паштет из куриной печени,1,1,1,0,Chicken liver pate,h≈13px body; only 'pate' visible under overlapping cards
+menu_ru,ru010,САЛАТЫ,1,0,0,0,,h≈18px heading; no OCR region/card
+menu_ru,ru011,Салат с уткой и винной грушей,1,1,1,0,Salwt with duck and wine pear,h≈13px body; BORDERLINE correct (Salwt); card taller than line pitch; hides neighbouring lines
+menu_ru,ru012,Сельдь под шубой,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru013,Цезарь с креветками,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru014,Цезарь с курицей,1,1,0,0,Cese with chicken,h≈13px body; Caesar lost; card taller than line pitch; hides neighbouring lines
+menu_ru,ru015,Греческий с крымским луком и орехами,1,1,0,0,"Recarriage with Crimean onions and eadto orphs, 350",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru016,Салат с томленой свининой,1,1,1,0,Salad with Gomlin Pork,h≈13px body; BORDERLINE correct (Gomlin); card taller than line pitch; hides neighbouring lines
+menu_ru,ru017,СУПЫ,1,0,0,0,,h≈18px heading; no OCR region/card
+menu_ru,ru018,Борщ с говядиной и густой сметаной,1,1,1,0,Borsch with beef and thick sour cream,h≈13px body; card hidden under next card
+menu_ru,ru019,Томленые щи из квашеной капусты,1,1,0,0,Summer Summer Soup,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru020,Свекольник рыбный с красной фасолью,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru021,Минестроне на курином бульоне,1,1,1,0,Minestrin on chicken broth.,h≈13px body; BORDERLINE correct; clipped to 'Minestrin on chicken'
+menu_ru,ru022,Суп-гуляш из говядины,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru023,Том-ям с креветками,1,1,1,0,Tom-yam with shrimp,h≈13px body; clipped to 'Tom-yam with'
+menu_ru,ru024,ПАСТА / ПИЦЦЫ,1,1,1,0,Pasta / Pizza,h≈18px heading; card hidden under blank neighbouring cards
+menu_ru,ru025,Спагетти болоньезе,1,1,1,0,Spaghetti bolognese,h≈13px body; card hidden under neighbouring cards
+menu_ru,ru026,Фетучини карбонара,1,1,0,0,Fetucci Labor Corbonary,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru027,Пенне ала-аррабиата,1,1,0,0,Penna Ala-Vroebiet,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru028,Пицца маргарита,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru029,Пицца четыре сыра,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru030,Пицца пепперони,1,1,0,0,Piro peplone.,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru031,ХЛЕБ,1,0,0,0,,h≈18px heading; no OCR region/card
+menu_ru,ru032,Белый классический,1,1,1,0,White classic.,h≈13px body; BORDERLINE correct (white bread under 'bread' heading); hidden
+menu_ru,ru033,Ржаной классический,1,1,0,0,Vigorous classic,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru034,Багет пшеничный,1,1,1,0,In the wheat baguette,h≈13px body; BORDERLINE correct; clipped to 'In the wheat'
+menu_ru,ru035,МЯСО/ПТИЦА/РЫБА,1,1,1,1,Meat / bird / fish,h≈18px heading; readable; bottom edge touched by next card
+menu_ru,ru036,Котлеты из щуки с пюре из батата,1,1,0,0,Pikeball pill with puree from Batva:,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru037,Филе судака с картофельным гратеном,1,1,0,0,Sudak fillet with potato polesm,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru038,Котлеты из оленины с пюре из моркови,1,1,0,0,Leather horses with moski puree,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru039,Стейк из говядины с листьями и свежими,1,1,1,0,Beef steak with leaves and fresh,h≈13px body; BORDERLINE correct (continuation line missed); card taller than line pitch; hides neighbouring lines
+menu_ru,ru040,овощами,1,0,0,0,,h≈13px body; no OCR region/card; continuation of steak line
+menu_ru,ru041,Рулька свиная с тушеной капустой,1,1,0,0,Pork steering wheel with stewed cabbage,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru042,Ножка ягненка конфи с шафраном,1,0,0,0,,h≈13px body; no OCR region/card; nearby region 'усы капустой' belongs to the line above
+menu_ru,ru043,Таджин из ягненка,1,1,0,0,"Adin from lamb,",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru044,Шашлык из свинины с крымским луком,1,1,0,0,With distance from pork ck don,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru045,Шашлык из говядины с болгарским перцем,1,1,0,0,Eat KZ Beef Hair Ermen / Khashee from beef - European Nokia...,"h≈13px body; two overlapping regions, one spanning two columns"
+menu_ru,ru046,Шашлык из баранины с курдючным салом,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru047,Шашлык из куриного бедра,1,1,0,0,Schshlch from chicken thigh,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru048,РОЛЛЫ,1,1,0,0,th choto 390 @ rolls,h≈18px heading; region merged with price column
+menu_ru,ru049,Филадельфия с лососем,1,1,0,0,Philagiaphia with the embossing,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru050,Калифорния с крабом,1,1,0,0,CABOR CORBOR,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru051,Филадельфия с угрем,1,1,0,0,Philadelphia with UG Rot,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru052,Запеченный ролл калифорния,1,1,1,0,Baked California Roll,h≈13px body; card hidden under neighbouring cards
+menu_ru,ru053,Запеченный ролл сливочный лосось,1,1,0,0,creamy salmon,h≈13px body; partial region; 'baked roll' lost
+menu_ru,ru054,Запеченный ролл спайси лосось,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru055,Запеченный ролл спайси угорь,1,0,0,0,,h≈13px body; no OCR region/card; source left visible
+menu_ru,ru056,БУРГЕРЫ,1,0,0,0,,h≈18px heading; no OCR region/card
+menu_ru,ru057,Бургер с говяжьей котлетой и свежими,1,1,1,0,Burgers Beef Cutlet and Fresh,h≈13px body; BORDERLINE correct; clipped
+menu_ru,ru058,овощами,1,0,0,0,,h≈13px body; no OCR region/card; continuation of beef burger line
+menu_ru,ru059,Бургер с томленой свининой и печеными,1,1,1,0,Burger with tomlenny pork and baked,h≈13px body; BORDERLINE correct (tomlenny); clipped
+menu_ru,ru060,овощами,1,0,0,0,,h≈13px body; no OCR region/card; continuation of pork burger line
+menu_ru,ru061,Бургер с куриным бедром су-вид,1,1,1,0,Burger with chicken thigh Su-View,h≈13px body; BORDERLINE correct (Su-View = sous-vide); clipped
+menu_ru,ru062,ДЕСЕРТЫ,1,1,0,0,oo zo @ desserts,h≈18px heading; region merged with price column
+menu_ru,ru063,Медовик,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru064,Наполеон,1,0,0,0,,h≈13px body; no OCR region/card; source left visible
+menu_ru,ru065,Чизкейк,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru066,Французские булочки,1,1,1,0,French buns,h≈13px body; card hidden under next card
+menu_ru,ru067,Мороженое в ассортименте,1,1,1,0,Ice cream in assortment,h≈13px body; clipped to 'Ice cream in'; covers line above
+menu_ru,ru068,Охотничья Усадьба,1,1,0,0,Salba Hunting,h≈20px; restaurant name; covers МЕНЮ
+menu_ru,ru069,МЕНЮ,1,0,0,0,,h≈30px heading; no OCR region/card; half covered by name card
+menu_ru,ru070,ДОМАШНИЕ,1,1,1,0,Home,h≈18px heading; BORDERLINE correct (homemade); covers next line
+menu_ru,ru071,ЛИМОНАДЫ,1,1,1,0,Lemonade,h≈18px heading; card hidden under neighbouring card
+menu_ru,ru072,Грейпфрут / Розмарин,1,1,0,0,River / Rozhnariy,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru073,Ежевика / Клубника,1,1,0,0,"Gay and bubble ""a",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru074,Тархун,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru075,Тропик-физ,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru076,НАПИТКИ б/а,1,1,0,0,Drinks used,h≈18px heading; б/а = non-alcoholic; misleading
+menu_ru,ru077,Глинтвейн б/а,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru078,Эспрессо,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru079,Американо,1,1,0,0,"And Mary ""An:",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru080,Капучино,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru081,Латте,1,0,0,0,,h≈13px body; no OCR region/card; source left visible
+menu_ru,ru082,По Вашему желанию мы приготовим Вам,1,0,0,0,,h≈9px small; no OCR region/card
+menu_ru,ru083,кофе на кокосовом молоке,1,0,0,0,,h≈9px small; no OCR region/card
+menu_ru,ru084,ЧАЙ В ЧАЙНИКЕ,1,1,0,0,"250 @ tea groan ""O ---",h≈18px heading; region merged with price column
+menu_ru,ru085,"- черный Ассам, Сенча",1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru086,- молочный улун,1,0,0,0,,h≈13px body; no OCR region/card; source left visible
+menu_ru,ru087,- ройбуш,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru088,- малина / розмарин,1,1,0,0,In Ma Ping Homo,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru089,- облепиха / мед,1,1,0,0,"= appearance / Mia,",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru090,- яблочный пирог,1,0,0,0,,h≈13px body; no OCR region/card
+menu_ru,ru091,СОКИ,1,0,0,0,,h≈18px heading; no OCR region/card
+menu_ru,ru092,Сок «РИЧ» в ассортименте,1,1,0,0,"Juice ""Ricce to, Saxons Ben 150",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru093,"/томат, апельсин, яблоко, вишня,",1,0,0,0,,h≈9px small; no OCR region/card
+menu_ru,ru094,персик/,1,0,0,0,,h≈9px small; no OCR region/card
+menu_ru,ru095,"Вода ""БонАква"" с/г и б/г",1,1,0,0,Water + -C Saka and,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru096,Кола / Фанта / Спрайт,1,1,0,0,th them fan sprite,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru097,Швепс Биттер Лемон,1,1,0,0,Intochy Ebite,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru098,Морс клюквеный,1,1,0,0,"Morse, PC Eternal",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru099,МИЛК ШЕЙКИ,1,1,0,0,Milk Shaiki +50 cha,h≈18px heading; card taller than line pitch; hides neighbouring lines
+menu_ru,ru100,"Шоколад /мороженое, сироп, молоко/",1,1,0,0,"Chocola scrap. Saraho wear, 250",h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru101,"Клубника /мороженое, сироп, молоко/",1,1,0,0,Strawberry = Organiza Syarsl Ecoc,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_ru,ru102,"Ваниль /мороженое, сироп, молоко/",1,1,0,0,Venil Chesraeeyna Orel,h≈13px body; card taller than line pitch; hides neighbouring lines
+menu_fr,fr001,Entrées,1,1,0,1,Entries,French entrées = starters; 'Entries' misleading
+menu_fr,fr002,Salade Niçoise. (Entrées),1,1,0,0,,logged [und]; no card
+menu_fr,fr003,Vol-au-vent aux fruits de mer et aux (Entrées),1,1,0,0,Vol-au-wind with seafood and,BORDERLINE correct (dish name mangled); clipped
+menu_fr,fr004,champignons. (Entrées),1,1,0,0,,logged [und]; no card
+menu_fr,fr005,Galettes de poulet. (Entrées),1,1,1,0,Chicken pancakes.,BORDERLINE correct (galette); card covers the English description line below
+menu_fr,fr006,Soupe et Salades,1,1,1,1,Soup and salads,
+menu_fr,fr007,Soupe du Jour,1,1,1,0,Soup of the day,clipped to 'Soup of the'; covers start of next line
+menu_fr,fr008,Salade Niçoise. (Soupe 1),1,1,0,0,,logged [und]; no card
+menu_fr,fr009,Salade Niçoise. (Soupe 2),1,1,0,0,Saab Monet.,read by Russian OCR
+menu_fr,fr010,Salade de Concombre.,1,1,0,0,G. RF OR @ BEP SOVI TO HER B,read by Russian OCR
+menu_fr,fr011,Les Plats Principaux,1,1,1,1,Main dishes,
+menu_fr,fr012,Fricandeaux de Bœuf.,1,1,0,0,510 EMSAPDEAY DEASH!.,read by Russian OCR; region merged with price
+menu_fr,fr013,Vol-au-vent aux fruits de mer et aux (Plats),1,1,0,0,Vol-au-wind with seafood and,BORDERLINE correct; clipped
+menu_fr,fr014,champignons (Plats),1,1,0,0,,logged [und]; no card
+menu_fr,fr015,Salade Niçoise. (Plats),1,1,0,0,,logged [und]; no card
+menu_fr,fr016,Galettes de poulet. (Plats),1,1,1,0,Chicken pancakes,BORDERLINE correct; card covers the English description line below
+menu_fr,fr017,Les Desserts,1,1,0,0,,logged [und]; no card; transparent to English readers
+menu_fr,fr018,Mousse au Chocolat.,1,1,1,0,Chocolate mousse.,card covers the English description line below
+menu_fr,fr019,Tarte Bourdaloue.,1,1,0,0,Hair Wari Ya.,read by Russian OCR
+menu_fr,fr020,Mi-cuit au chocolat,1,1,0,0,Marsti zi SPOS! A,read by Russian OCR
+menu_fr,fr021,CAFÉ BIGOT,0,1,0,0,SAYE VTSOT,DISPUTED: proper name excluded; garbage card via Russian OCR
+menu_fr,fr022,ROUGE,0,1,0,0,Кочсе,DISPUTED: proper name excluded; Cyrillic garbage card
+menu_fr,fr023,"Cream and egg, poached vegetables and bacon.",0,0,0,0,,English; no card
+menu_fr,fr024,"From the Cote D'Azur region of France. Lettuce, (1)",0,0,0,0,,English; no card
+menu_fr,fr025,"tomatoes, bell pepper, green beans, spring (1)",0,0,0,0,,English; no card
+menu_fr,fr026,"onions, potatoes, egg, olives, anchovies, capers (1)",0,0,0,0,,English; no card
+menu_fr,fr027,and tuna. (1),0,1,0,0,ADF Kipa.,SPURIOUS card on English text; Russian OCR
+menu_fr,fr028,Small cylindrical mold or basket made of leaf or (left),0,0,0,0,,English; no card
+menu_fr,fr029,puff pastry dough. Salted. (left),0,0,0,0,,English; no card
+menu_fr,fr030,"Chicken, mushrooms and truffle bechamel. (left)",0,1,0,0,"Schep, Tizgot Apa Gi'pe Cupphat!.",SPURIOUS card on English text; Russian OCR
+menu_fr,fr031,Ask your server for our chef's daily soup,0,0,0,0,,English; no card
+menu_fr,fr032,selection 7,0,0,0,0,,English; no card
+menu_fr,fr033,"Salad from the Cote D'Azur of France. Tomato, (left)",0,0,0,0,,English; no card
+menu_fr,fr034,"red peppers, onion, lettuce, potatoes, beans, (left)",0,0,0,0,,English; no card
+menu_fr,fr035,"boiled eggs, tuna in oil and olives 15",0,0,0,0,,English; no card
+menu_fr,fr036,"From the Cote D'Azur region of France. Lettuce, (2)",0,0,0,0,,English; no card
+menu_fr,fr037,"tomatoes, bell pepper, green beans, spring (2)",0,0,0,0,,English; no card
+menu_fr,fr038,"onions, potatoes, egg, olives, anchovies, capers (2)",0,0,0,0,,English; no card
+menu_fr,fr039,and tuna. 20,0,1,0,0,APA KIPA. 20,SPURIOUS card on English text; Russian OCR
+menu_fr,fr040,"Baby cucumber, dried wakame seaweed, fresh",0,0,0,0,,English; no card
+menu_fr,fr041,"mint, fresh cilantro or parsley, green onion, rice",0,0,0,0,,English; no card
+menu_fr,fr042,vinegar 20,0,1,0,0,Unpedag 20,SPURIOUS card on English text; Russian OCR
+menu_fr,fr043,Consumer Advisory. Consuming raw or,0,0,0,0,,English; no card
+menu_fr,fr044,"undercooked meats, poultry, seafood, shellfish, or",0,0,0,0,,English; no card
+menu_fr,fr045,eggs may increase your risk of foodborne illness,0,0,0,0,,English; no card
+menu_fr,fr046,YOUR LOGO,0,0,0,0,,English; no card
+menu_fr,fr047,FRENCH MENU,0,1,0,0,Erkemsn Memo,SPURIOUS card on English text; Russian OCR
+menu_fr,fr048,Editable french menu,0,0,0,0,,English; no card
+menu_fr,fr049,templates at EDIT.org,0,0,0,0,,English; no card
+menu_fr,fr050,"Stew, onion, tomato and other vegetables.",0,0,0,0,,English; no card
+menu_fr,fr051,Beef stew cooked in Burgundy red wine and,0,0,0,0,,English; no card
+menu_fr,fr052,"flavored with garlic, onions, carrots, salt and a",0,0,0,0,,English; no card
+menu_fr,fr053,bouquet garni.,0,1,0,0,Боидие! to give,SPURIOUS card on English text; Russian OCR
+menu_fr,fr054,Small cylindrical mold or basket made of leaf (right),0,1,0,0,#U Tai Suylopsy! TOYAD CE BAVEEH Tab O! John!,SPURIOUS card on English text; Russian OCR
+menu_fr,fr055,or puff pastry dough. Salted. 20,0,0,0,0,,English; no card
+menu_fr,fr056,"Salad from the Cote D'Azur of France. Tomato, (right)",0,0,0,0,,English; no card
+menu_fr,fr057,"red peppers, onion, lettuce, potatoes, beans, (right)",0,0,0,0,,English; no card
+menu_fr,fr058,"boiled eggs, tuna in oil and olives",0,0,0,0,,English; no card
+menu_fr,fr059,"Chicken, mushrooms and truffle bechamel (right)",0,0,0,0,,English; no card
+menu_fr,fr060,"Whipped egg whites, chocolate mousse and",0,0,0,0,,English; no card
+menu_fr,fr061,fruit mousse.,0,1,0,0,Fruit foam.,SPURIOUS card on English text; English read as French
+menu_fr,fr062,Delicious pear and almond cream tart.,0,0,0,0,,English; no card
+menu_fr,fr063,Small chocolate sponge cake with melted,0,0,0,0,,English; no card
+menu_fr,fr064,interior.,0,1,0,0,caps.,SPURIOUS card on English text; Russian OCR
+menu_fr,fr065,Copy text from image (Photos UI),0,0,0,0,,English; no card
+menu_fr,fr066,Share (Photos UI),0,0,0,0,,English; no card
+menu_fr,fr067,Edit (Photos UI),0,0,0,0,,English; no card
+menu_fr,fr068,Lens (Photos UI),0,0,0,0,,English; no card
+menu_fr,fr069,Delete (Photos UI),0,1,0,0,"Island! £! Is,",SPURIOUS card on English text; Russian OCR
+menu_de,de001,Ratskeller Speisekarte,1,1,0,0,,logged [und] as '2krtskefler Speisekarte'; no card; Speisekarte = menu
+menu_de,de002,Sides und Snacks,1,1,0,0,,logged [und]; no card; BORDERLINE eligibility: readable to English readers
+menu_de,de003,Nürnberger Bratwurst,0,1,0,0,Elalatpbete,DISPUTED: German dish name normally unchanged in English; excluded; garbage card; blackletter read by Russian OCR; card hides the heading and half the next line
+menu_de,de004,Weisswurst,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de005,Bratwurst,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de006,Leberkäse,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de007,Bauernwurst,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de008,Knackwurst,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de009,Sauerkraut,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de010,Kartoffelsalat -Potato Salad,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de011,Gurkensalat - Cucumber Salad,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de012,Bretzel,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de013,Landjäger,0,0,0,0,,DISPUTED: German dish name normally unchanged in English; excluded; no card
+menu_de,de014,"""Our Wurst is the Best""",0,0,0,0,,English; no card
+menu_de,de015,CHECK KITCHEN BLACKBOARD FOR PRICES & THIS WEEK'S SELECTION,0,0,0,0,,English; no card
+menu_de,de016,"From the city of Nürnberg, made from a 700 year",0,0,0,0,,English; no card
+menu_de,de017,"old recipe of pork, marjoram, ginger & cardamom.",0,0,0,0,,English; no card
+menu_de,de018,A Munich staple: a mild pork & veal sausage with a,0,0,0,0,,English; no card
+menu_de,de019,"uniquely Bavarian flavor, served boiled or grilled.",0,0,0,0,,English; no card
+menu_de,de020,This delicately seasoned pork sausage is one of,0,0,0,0,,English; no card
+menu_de,de021,the most popular in Germany – and the Rat!,0,0,0,0,,English; no card
+menu_de,de022,"It's sort of a German meatloaf, at its most",0,0,0,0,,English; no card
+menu_de,de023,wunderbar when cut thick and fried (like we do).,0,0,0,0,,English; no card
+menu_de,de024,Course texture and combination of mustard seed,0,0,0,0,,English; no card
+menu_de,de025,and marjoram blend to create old world flavor.,0,0,0,0,,English; no card
+menu_de,de026,A thick frankfurter but different than the average,0,0,0,0,,English; no card
+menu_de,de027,"hot dog. Grilled or boiled, it is mild and satisfying.",0,0,0,0,,English; no card
+menu_de,de028,"The Ratskeller's own traditional ""haus"" recipe",0,0,0,0,,English; no card
+menu_de,de029,made with lots of love.,0,0,0,0,,English; no card
+menu_de,de030,"Light and flavorful, it's made with oil and vinegar",0,0,0,0,,English; no card
+menu_de,de031,instead of mayo.,0,0,0,0,,English; no card
+menu_de,de032,"Cool, crunchy cucumbers with dill, vinegar & more.",0,0,0,0,,English; no card
+menu_de,de033,A seasonal favorite.,0,0,0,0,,English; no card
+menu_de,de034,Good ones are hard to come by. Salty and so good,0,0,0,0,,English; no card
+menu_de,de035,"with a cool beer ""vom Fass"".",0,0,0,0,,English; no card
+menu_de,de036,This smoked sausage is a favorite snack of,0,0,0,0,,English; no card
+menu_de,de037,"Alpine guides, soldiers & beer drinkers.",0,0,0,0,,English; no card
+menu_de,de038,Copy text from image (Photos UI),0,0,0,0,,English; no card
+menu_de,de039,Share (Photos UI),0,0,0,0,,English; no card
+menu_de,de040,Edit (Photos UI),0,0,0,0,,English; no card
+menu_de,de041,Lens (Photos UI),0,0,0,0,,English; no card
+menu_de,de042,Delete (Photos UI),0,1,0,0,"Re! £! Is,",SPURIOUS card on English text; Russian OCR
+settings_ru,set001,Настройки,1,1,1,1,Settings,a11y fast path
+settings_ru,set002,Поиск настроек,1,1,0,1,CREDICAL,a11y fast path; should be 'Search settings'
+settings_ru,set003,Сеть и интернет,1,1,1,1,Network and Internet,a11y fast path
+settings_ru,set004,"Мобильный интернет, Wi-Fi, точка доступа",1,1,1,1,"Mobile Internet, Wi-Fi, Access Point",a11y fast path
+settings_ru,set005,Подключенные устройства,1,1,1,1,Connected devices,a11y fast path
+settings_ru,set006,"Bluetooth, подключение",1,1,1,1,Bluetooth connection,a11y fast path
+settings_ru,set007,Приложения,1,1,1,1,The application,"a11y fast path; BORDERLINE correct (Apps, singular)"
+settings_ru,set008,"Ассистент, недавние приложения, приложения",1,1,1,1,"Assistant, recent applications, default applications",a11y fast path; one node for both lines
+settings_ru,set009,по умолчанию,1,1,1,1,"Assistant, recent applications, default applications",a11y fast path; second line of the same node
+settings_ru,set010,Уведомления,1,1,0,1,Alert,a11y fast path; should be 'Notifications'
+settings_ru,set011,"История уведомлений, разговоры",1,1,1,1,"History of notifications, conversations",a11y fast path
+settings_ru,set012,Батарея,1,1,1,1,Battery,a11y fast path
+settings_ru,set013,Хранилище,1,1,0,1,Repository,a11y fast path; should be 'Storage'
+settings_ru,set014,"Занято 61 %, свободно 6,19 ГБ",1,1,1,1,"Busy 61%, free 6.19 GB",a11y fast path; BORDERLINE correct (Busy = used)
+settings_ru,set015,Звук и вибрация,1,1,1,1,Sound and vibration,a11y fast path
+settings_ru,set016,"Громкость, виброотклик, режим ""Не",1,1,0,1,"Volume, vibrootklik, ""Do not disturb"" mode",a11y fast path; виброотклик transliterated
+settings_ru,set017,"беспокоить""",1,1,1,0,"Volume, vibrootklik, ""Do not disturb"" mode",a11y fast path; card covers only the first line; Russian second line stays visible
+english_control,en001,Settings,0,0,0,0,,English; no card
+english_control,en002,Search settings,0,0,0,0,,English; no card
+english_control,en003,Network & internet,0,0,0,0,,English; no card
+english_control,en004,"Mobile, Wi-Fi, hotspot",0,0,0,0,,English; no card
+english_control,en005,Connected devices,0,0,0,0,,English; no card
+english_control,en006,"Bluetooth, pairing",0,0,0,0,,English; no card
+english_control,en007,Apps,0,0,0,0,,English; no card
+english_control,en008,"Assistant, recent apps, default apps",0,0,0,0,,English; no card
+english_control,en009,Notifications,0,0,0,0,,English; no card
+english_control,en010,"Notification history, conversations",0,0,0,0,,English; no card
+english_control,en011,Battery,0,0,0,0,,English; no card
+english_control,en012,Storage,0,0,0,0,,English; no card
+english_control,en013,61% used - 6.19 GB free,0,0,0,0,,English; no card
+english_control,en014,Sound & vibration,0,0,0,0,,English; no card
+english_control,en015,"Volume, haptics, Do Not Disturb",0,0,0,0,,English; no card

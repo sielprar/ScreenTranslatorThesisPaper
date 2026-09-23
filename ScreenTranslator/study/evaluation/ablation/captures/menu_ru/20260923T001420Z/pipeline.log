@@ -1,0 +1,205 @@
+--------- beginning of main
+09-23 02:14:30.650 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:14:30.708 28263 28809 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 2ms
+09-23 02:14:30.858 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:14:31.089 28263 28263 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=1 focus=0
+09-23 02:14:31.174 28263 28263 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 02:14:31.175 28263 28809 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:14:32.730 28263 28809 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 1244ms → 168 region(s)
+09-23 02:14:32.777 28263 28809 I ScreenTranslatorPipe:   [en] "Copy text from image X" @ Rect(392, 2088 - 786, 2131)
+09-23 02:14:32.798 28263 28809 I ScreenTranslatorPipe:   [en] "2s0 1p 550" @ Rect(736, 1191 - 798, 1210)
+09-23 02:14:33.083 28263 28484 I ScreenTranslatorPipe:   [und] "peyeckeKCKDBIMCKM NyKOM nopexaM 240 rp 350" @ Rect(61, 1145 - 386, 1162)
+09-23 02:14:33.168 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.66) "CreiK M3 roBAIMHbl C nMCTRMM M CBexMMM" → [pt conf=0.99 cyr=0] "Crem roe mer exe"
+09-23 02:14:33.245 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.79) "Eyprep c roeaxbeû KOTneTOR M cBexMMM" → [en conf=1.00 cyr=0] ""prep creo ner conn"
+09-23 02:14:33.245 28263 28416 I ScreenTranslatorPipe:   [en] ""prep creo ner conn" @ Rect(434, 1337 - 688, 1350)
+09-23 02:14:33.250 28263 28809 I ScreenTranslatorPipe:   [und] "6opurc roBgnuvoRn rycrOn CMeTaHOA" @ Rect(48, 1219 - 292, 1239)
+09-23 02:14:33.293 28263 28483 I ScreenTranslatorPipe: model ready [pt→en] in 124ms
+09-23 02:14:33.454 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [pl]/low-conf(0.59) "Dwne cynaka c kaproenbHbIM rpareHOM" → [und conf=0.00 cyr=0] ", Sane yn apogee rarer"
+09-23 02:14:33.454 28263 28809 I ScreenTranslatorPipe:   [und] "Dwne cynaka c kaproenbHbIM rpareHOM" @ Rect(433, 921 - 689, 933)
+09-23 02:14:33.532 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [pl]/garbled "Byprep c KypwHbIM óeapoM cy-BMA" → [und conf=0.00 cyr=24] "Бухерскуриным бедрсм су-вид"
+09-23 02:14:33.614 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "Филадельфия с лососем" (ML Kit "Ounanenbua c nOcOceM") @ Rect(433, 1164 - 595, 1177)
+09-23 02:14:33.615 28263 28416 I ScreenTranslatorPipe:   [ru→en] "Филадельфия с лососем" → "Philadelphia with salmon" @ Rect(433, 1164 - 595, 1177)
+09-23 02:14:33.652 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.61) "250 rp 5503HAK B YAMHKKE S00 Mn" → [ru conf=0.57 cyr=10] "rf @ чай в чайник: oo"
+09-23 02:14:33.652 28263 28414 I ScreenTranslatorPipe:   [und] "250 rp 5503HAK B YAMHKKE S00 Mn" @ Rect(731, 1189 - 1042, 1210)
+09-23 02:14:33.719 28263 28809 I ScreenTranslatorPipe:   [ru/comic] read "Французские булочки" (ML Kit "opaHuy3cKMe óynouKn") @ Rect(433, 1524 - 573, 1542)
+09-23 02:14:33.720 28263 28809 I ScreenTranslatorPipe:   [ru→en] "Французские булочки" → "French buns" @ Rect(433, 1524 - 573, 1542)
+09-23 02:14:33.787 28263 28809 I ScreenTranslatorPipe:   [pt→en] no-op "Crem roe mer exe"; no card
+09-23 02:14:33.787 28263 28809 I ScreenTranslatorPipe:   [pt→en] "Crem roe mer exe" → "?" @ Rect(434, 955 - 701, 967)
+09-23 02:14:33.847 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "Тропик" (ML Kit "Tponwk-Qu3") @ Rect(847, 1034 - 913, 1046)
+09-23 02:14:33.851 28263 28416 I ScreenTranslatorPipe:   [ru→en] "Тропик" → "Tropic" @ Rect(847, 1034 - 913, 1046)
+09-23 02:14:33.880 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "O ohotnichya_usadba Kizbaohotnika" → [und conf=0.00 cyr=0] "C ieee K izbaohotnika"
+09-23 02:14:33.880 28263 28484 I ScreenTranslatorPipe:   [und] "O ohotnichya_usadba Kizbaohotnika" @ Rect(59, 839 - 344, 856)
+09-23 02:14:33.947 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "Котлеты из щуки С пюре из батата" (ML Kit "KoTneTaI H3 Llykn c niope 3 6arara") @ Rect(434, 904 - 651, 916)
+09-23 02:14:33.948 28263 28414 I ScreenTranslatorPipe:   [ru→en] "Котлеты из щуки С пюре из батата" → "Pikeballs from pike with mashed potato" @ Rect(434, 904 - 651, 916)
+09-23 02:14:33.999 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "Рулька свиная с тушеной капустой" (ML Kit "Fyibka CbMHas CTyueHOM KanycTOH") @ Rect(433, 989 - 656, 1004)
+09-23 02:14:34.000 28263 28484 I ScreenTranslatorPipe:   [ru→en] "Рулька свиная с тушеной капустой" → "Pork steering wheel with stewed cabbage" @ Rect(433, 989 - 656, 1004)
+09-23 02:14:34.001 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "Паштет из куриной печени ," (ML Kit "laujer W3 KypvHou neuenn") @ Rect(50, 1018 - 221, 1031)
+09-23 02:14:34.003 28263 28413 I ScreenTranslatorPipe:   [ru→en] "Паштет из куриной печени ," → "Chicken liver pate," @ Rect(50, 1018 - 221, 1031)
+09-23 02:14:34.091 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Obauey xenauno M nprotoaw Baw" → [und conf=0.00 cyr=0] "? to"
+09-23 02:14:34.091 28263 28414 I ScreenTranslatorPipe:   [und] "Obauey xenauno M nprotoaw Baw" @ Rect(856, 1165 - 1032, 1180)
+09-23 02:14:34.187 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.89) "CANAT CyTKOR M BMHHOR Cpyuen" → [und conf=0.00 cyr=0] "/fxgrener nares ve"
+09-23 02:14:34.188 28263 28483 I ScreenTranslatorPipe:   [und] "CANAT CyTKOR M BMHHOR Cpyuen" @ Rect(48, 1074 - 252, 1096)
+09-23 02:14:34.272 28263 28484 I ScreenTranslatorPipe:   [und] "Canar croAEHO CBVHAHOA" @ Rect(52, 1160 - 231, 1180)
+09-23 02:14:34.275 28263 28809 I ScreenTranslatorPipe:   [ru/comic] read "неона / К узи" (ML Kit "Exesxa / KnyóHuKa") @ Rect(848, 1000 - 959, 1013)
+09-23 02:14:34.275 28263 28809 I ScreenTranslatorPipe:   [ru→en] "неона / К узи" → "neon / to ultrasound" @ Rect(848, 1000 - 959, 1013)
+09-23 02:14:34.294 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [fr]/low-conf(0.53) "CoK *PM4 accoprorTe 200 Mn 150" → [mn conf=0.62 cyr=5] "ое жом 180"
+09-23 02:14:34.295 28263 28809 I ScreenTranslatorPipe:   [und] "CoK *PM4 accoprorTe 200 Mn 150" @ Rect(847, 1347 - 1058, 1360)
+09-23 02:14:34.360 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.82) "Tpeanopyr / PoaMapnH" → [en conf=0.60 cyr=1] "й = eae"
+09-23 02:14:34.360 28263 28413 I ScreenTranslatorPipe:   [und] "Tpeanopyr / PoaMapnH" @ Rect(848, 978 - 974, 997)
+09-23 02:14:34.461 28263 28809 I ScreenTranslatorPipe:   [und] "PxaHoR KhaccMveCKMa" @ Rect(48, 1524 - 193, 1539)
+09-23 02:14:34.463 28263 28809 I ScreenTranslatorPipe:   [und] "Ounagenboua C yrpeM" @ Rect(434, 1199 - 576, 1211)
+09-23 02:14:34.464 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "ПАСТА / ПИЦЦЫ" (ML Kit "LACTA / IMIiIbI") @ Rect(60, 1333 - 201, 1352)
+09-23 02:14:34.465 28263 28414 I ScreenTranslatorPipe:   [ru→en] "ПАСТА / ПИЦЦЫ" → "Pasta / Pizza" @ Rect(60, 1333 - 201, 1352)
+09-23 02:14:34.470 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.60) "MopoxHOe B accoptMMeHTe" → [und conf=0.00 cyr=11] "Мон осолноно"
+09-23 02:14:34.478 28263 28412 I ScreenTranslatorPipe:   [und] "MopoxHOe B accoptMMeHTe" @ Rect(433, 1544 - 612, 1559)
+09-23 02:14:34.516 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "МЯСО/ПТИЦА/РЫБА" (ML Kit "MACo/ITKIA/P5IBA") @ Rect(444, 868 - 629, 885)
+09-23 02:14:34.522 28263 28414 I ScreenTranslatorPipe:   [ru→en] "МЯСО/ПТИЦА/РЫБА" → "Meat / bird / fish" @ Rect(444, 868 - 629, 885)
+09-23 02:14:34.538 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.53) "350 rp 450 EYPrEPbI" → [en conf=0.95 cyr=0] "= i (baie"
+09-23 02:14:34.538 28263 28809 I ScreenTranslatorPipe:   [en] "= i (baie" @ Rect(324, 1301 - 518, 1324)
+09-23 02:14:34.542 28263 28809 I ScreenTranslatorPipe:   [und] "Bae opRGR opon Mooo" @ Rect(847, 1531 - 1013, 1548)
+09-23 02:14:34.545 28263 28809 I ScreenTranslatorPipe:   [und] "250/150/103 rp 550" @ Rect(689, 1091 - 798, 1106)
+09-23 02:14:34.547 28263 28413 I ScreenTranslatorPipe:   [und] "250/150/1o0 rp 55O" @ Rect(688, 1039 - 798, 1053)
+09-23 02:14:34.551 28263 28809 I ScreenTranslatorPipe:   [en] "Benal KnacchuecMa" @ Rect(58, 1507 - 184, 1524)
+09-23 02:14:34.565 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "Мин естрс м не на куоином 6 упьсне." (ML Kit "MHnecTpOHe 4a kypMHOM ÓyNbOHe") @ Rect(55, 1272 - 265, 1291)
+09-23 02:14:34.566 28263 28484 I ScreenTranslatorPipe:   [ru→en] "Мин естрс м не на куоином 6 упьсне." → "Ming EstrS M is not on Caoin 6 Pupitsa." @ Rect(55, 1272 - 265, 1291)
+09-23 02:14:34.592 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "Амери» но" (ML Kit "AMepwkaHO") @ Rect(848, 1115 - 912, 1127)
+09-23 02:14:34.592 28263 28412 I ScreenTranslatorPipe:   [ru→en] "Амери» но" → "Ameri "But" @ Rect(848, 1115 - 912, 1127)
+09-23 02:14:34.601 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "Котлеты: из опенины С Гюре из моркови" (ML Kit "KoTneTbI H3 oneHMHbl C niope w3 MOpKOBM") @ Rect(434, 938 - 691, 951)
+09-23 02:14:34.602 28263 28414 I ScreenTranslatorPipe:   [ru→en] "Котлеты: из опенины С Гюре из моркови" → "Cutlets: From the Openings with the Gurea of Carrot" @ Rect(434, 938 - 691, 951)
+09-23 02:14:34.603 28263 28809 I ScreenTranslatorPipe:   [und] "essps oKpeeerkoMW" @ Rect(49, 1110 - 186, 1130)
+09-23 02:14:34.604 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.51) "Wsenc bTrep NeMoH" → [bg conf=0.85 cyr=15] "/ Кола / Фента / Спрайт"
+09-23 02:14:34.604 28263 28484 I ScreenTranslatorPipe:   [und] "Wsenc bTrep NeMoH" @ Rect(848, 1434 - 969, 1446)
+09-23 02:14:34.615 28263 28809 I ScreenTranslatorPipe:   [und] "Llesapb okypnuen" @ Rect(52, 1128 - 166, 1146)
+09-23 02:14:34.616 28263 28484 I ScreenTranslatorPipe:   [und] "KOHQM C wadpaOM" @ Rect(532, 1001 - 652, 1024)
+09-23 02:14:34.674 28263 28484 I ScreenTranslatorPipe:   [und] "/pba, ca, ne" @ Rect(52, 914 - 129, 933)
+09-23 02:14:34.678 28263 28413 I ScreenTranslatorPipe:   [und] "CAJIATEI" @ Rect(63, 1044 - 131, 1065)
+09-23 02:14:34.678 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [de]/low-conf(0.74) "TOM-AM C KpeBerKaMM" → [sr conf=0.61 cyr=5] "ome прове"
+09-23 02:14:34.678 28263 28414 I ScreenTranslatorPipe:   [und] "TOM-AM C KpeBerKaMM" @ Rect(50, 1311 - 188, 1325)
+09-23 02:14:34.684 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "Томленые щи из кваше но ива усл." (ML Kit "Towhense uw yo kbaweHO9 KanycTal") @ Rect(53, 1239 - 277, 1256)
+09-23 02:14:34.689 28263 28416 I ScreenTranslatorPipe:   [ru→en] "Томленые щи из кваше но ива усл." → "Tomlar soup from Sayash but Iva Sl." @ Rect(53, 1239 - 277, 1256)
+09-23 02:14:34.731 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "Спагетти бопоньезе" (ML Kit "CnarertM 6onOHBe3e") @ Rect(50, 1368 - 181, 1380)
+09-23 02:14:34.732 28263 28416 I ScreenTranslatorPipe:   [ru→en] "Спагетти бопоньезе" → "Spaghetti boponese" @ Rect(50, 1368 - 181, 1380)
+09-23 02:14:34.745 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [ar-Latn]/unexpected "MMIIK IEMKM sON" → [ky conf=0.60 cyr=7] "ми кей ки,"
+09-23 02:14:34.776 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "За печенный ролл ванной угорь" (ML Kit "3aneueHHbIâ ponn cnaûcn yropb") @ Rect(433, 1264 - 637, 1280)
+09-23 02:14:34.777 28263 28413 I ScreenTranslatorPipe:   [ru→en] "За печенный ролл ванной угорь" → "Behind the bunk roll of the bathroom eel" @ Rect(433, 1264 - 637, 1280)
+09-23 02:14:34.780 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "Швшль из свинины оменмокн ом #88 и : 550" (ML Kit "Waunbix M3 CBMHMHbl C KpsMOKHM NyKOM 250/150/00 rp550") @ Rect(434, 1037 - 798, 1055)
+09-23 02:14:34.781 28263 28412 I ScreenTranslatorPipe:   [ru→en] "Швшль из свинины оменмокн ом #88 и : 550" → "Swishl from the Om Om Pork Om # 88 and: 550" @ Rect(434, 1037 - 798, 1055)
+09-23 02:14:34.784 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "HAIKTKV 6/a" → [sr conf=0.83 cyr=8] ") нлситк б/а"
+09-23 02:14:34.786 28263 28809 I ScreenTranslatorPipe:   [und] "300 rp 350" @ Rect(321, 1258 - 387, 1274)
+09-23 02:14:34.830 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.64) "TnHTBeRH 6/a" → [ar-Latn conf=0.72 cyr=0] ". mt !"
+09-23 02:14:34.831 28263 28413 I ScreenTranslatorPipe:   [und] "TnHTBeRH 6/a" @ Rect(848, 1080 - 927, 1092)
+09-23 02:14:34.831 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "Кагифорния с крабом" (ML Kit "KanvoopHMA C KpaóOM") @ Rect(434, 1181 - 577, 1195)
+09-23 02:14:34.831 28263 28484 I ScreenTranslatorPipe:   [ru→en] "Кагифорния с крабом" → "CABOR CORBOR" @ Rect(434, 1181 - 577, 1195)
+09-23 02:14:34.862 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "310 rp 350" → [am conf=0.51 cyr=0] "35/8)"
+09-23 02:14:34.862 28263 28416 I ScreenTranslatorPipe:   [und] "310 rp 350" @ Rect(321, 1385 - 389, 1400)
+09-23 02:14:34.885 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "350 rp L80" → [und conf=0.00 cyr=0] "Sn ago"
+09-23 02:14:34.885 28263 28809 I ScreenTranslatorPipe:   [und] "350 rp L80" @ Rect(734, 918 - 797, 931)
+09-23 02:14:34.931 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "300 ro 850" → [en conf=0.53 cyr=0] "sD"
+09-23 02:14:34.931 28263 28412 I ScreenTranslatorPipe:   [und] "300 ro 850" @ Rect(733, 952 - 797, 965)
+09-23 02:14:34.940 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "Клудниеа еее ри = 250" (ML Kit "KayóHKa opoooe cpon, ooo250") @ Rect(848, 1513 - 1061, 1532)
+09-23 02:14:34.941 28263 28413 I ScreenTranslatorPipe:   [ru→en] "Клудниеа еее ри = 250" → "KUCHDNIYA HIE RI = 250" @ Rect(848, 1513 - 1061, 1532)
+09-23 02:14:34.975 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "300 rp 290" → [und conf=0.00 cyr=0] "pad 290"
+09-23 02:14:34.975 28263 28484 I ScreenTranslatorPipe:   [und] "300 rp 290" @ Rect(321, 1226 - 387, 1238)
+09-23 02:14:34.978 28263 28414 I ScreenTranslatorPipe:   [und] "100 rp 150" @ Rect(733, 1526 - 795, 1539)
+09-23 02:14:35.019 28263 28484 I ScreenTranslatorPipe:   [und] "240 rp 390" @ Rect(734, 1263 - 797, 1279)
+09-23 02:14:35.020 28263 28484 I ScreenTranslatorPipe:   [und] "270 rp 490" @ Rect(735, 1163 - 799, 1176)
+09-23 02:14:35.024 28263 28483 I ScreenTranslatorPipe:   [ru/comic] read "Зо лоо @@ ДЕСЕРТЫ" (ML Kit "350 rp 350oAECEPTEI") @ Rect(321, 1442 - 523, 1466)
+09-23 02:14:35.024 28263 28483 I ScreenTranslatorPipe:   [ru→en] "Зо лоо @@ ДЕСЕРТЫ" → "Zo Loo @@ desserts" @ Rect(321, 1442 - 523, 1466)
+09-23 02:14:35.034 28263 28809 I ScreenTranslatorPipe:   [ru/comic] read "ф Багет пшеничный" (ML Kit "5aret nuieHWHbIA") @ Rect(49, 1544 - 161, 1557)
+09-23 02:14:35.035 28263 28809 I ScreenTranslatorPipe:   [ru→en] "ф Багет пшеничный" → "F Baguets Wheat" @ Rect(49, 1544 - 161, 1557)
+09-23 02:14:35.041 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "320 rp 450" → [en conf=0.52 cyr=0] "dpa"
+09-23 02:14:35.041 28263 28414 I ScreenTranslatorPipe:   [und] "320 rp 450" @ Rect(733, 1335 - 798, 1351)
+09-23 02:14:35.063 28263 28809 I ScreenTranslatorPipe:   [und] "JIMMOHAIHI" @ Rect(848, 963 - 962, 978)
+09-23 02:14:35.065 28263 28809 I ScreenTranslatorPipe:   [und] "220 rp 290" @ Rect(735, 1181 - 797, 1194)
+09-23 02:14:35.067 28263 28416 I ScreenTranslatorPipe:   [und] "100 Mn 100" @ Rect(995, 1115 - 1059, 1127)
+09-23 02:14:35.068 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "225 rp 290" → [ar-Latn conf=0.65 cyr=0] "zr 20"
+09-23 02:14:35.068 28263 28416 I ScreenTranslatorPipe:   [und] "225 rp 290" @ Rect(735, 1217 - 796, 1230)
+09-23 02:14:35.070 28263 28416 I ScreenTranslatorPipe:   [und] "330 Mn 200" @ Rect(998, 1414 - 1060, 1428)
+09-23 02:14:35.096 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "Амтипасти сырнее" (ML Kit "ATHTaCTH CHIDHOe") @ Rect(50, 963 - 172, 978)
+09-23 02:14:35.097 28263 28412 I ScreenTranslatorPipe:   [ru→en] "Амтипасти сырнее" → "Amphipasta raw" @ Rect(50, 963 - 172, 978)
+09-23 02:14:35.105 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "Морс кленвоный" (ML Kit "Mopc knioKBeHbI") @ Rect(847, 1448 - 947, 1463)
+09-23 02:14:35.106 28263 28412 I ScreenTranslatorPipe:   [ru→en] "Морс кленвоный" → "Morse Clenvon" @ Rect(847, 1448 - 947, 1463)
+09-23 02:14:35.108 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "300 rp 290" → [sr conf=0.71 cyr=3] "ВНЕ"
+09-23 02:14:35.146 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "310 rp 320" → [und conf=0.00 cyr=2] "зе 320,"
+09-23 02:14:35.171 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "АШешльк из говядины с ботлоскимеочем 20/50/07 р 850" (ML Kit "WWaunbK M3 roBRAMHbl c óonrapcox nepueM 250/1s0/101rp 850") @ Rect(428, 1058 - 798, 1071)
+09-23 02:14:35.172 28263 28413 I ScreenTranslatorPipe:   [ru→en] "АШешльк из говядины с ботлоскимеочем 20/50/07 р 850" → "Ashshlk from beef with bottle-seeker 20/50/07 p 850" @ Rect(428, 1058 - 798, 1071)
+09-23 02:14:35.179 28263 28483 I ScreenTranslatorPipe:   [und] "310 rp 420" @ Rect(735, 1404 - 799, 1417)
+09-23 02:14:35.180 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "300 rp 450" → [und conf=0.00 cyr=0] "som 450"
+09-23 02:14:35.180 28263 28483 I ScreenTranslatorPipe:   [und] "300 rp 450" @ Rect(733, 903 - 798, 916)
+09-23 02:14:35.205 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Bo ro 590" → [und conf=0.00 cyr=0] "(EI"
+09-23 02:14:35.223 28263 28483 I ScreenTranslatorPipe:   [und] "Bo ro 590" @ Rect(326, 964 - 394, 979)
+09-23 02:14:35.223 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [und]/und "200 Mn 180" → [und conf=0.00 cyr=2] "ко"
+09-23 02:14:35.230 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "НАПИТКИ б/а" (ML Kit "HAIKTKV 6/a") @ Rect(855, 1056 - 971, 1075)
+09-23 02:14:35.230 28263 28412 I ScreenTranslatorPipe:   [ru→en] "НАПИТКИ б/а" → "Drinks used" @ Rect(855, 1056 - 971, 1075)
+09-23 02:14:35.267 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "350 rp290" → [ar-Latn conf=0.89 cyr=0] "smn me"
+09-23 02:14:35.267 28263 28484 I ScreenTranslatorPipe:   [und] "350 rp290" @ Rect(324, 1242 - 390, 1255)
+09-23 02:14:35.272 28263 28809 I ScreenTranslatorPipe:   [ru/comic] read "све кольник рыбный с к рас ной Фес солью" (ML Kit "CoexonsHwK psioHbIü C KpacHon þaconbO") @ Rect(58, 1258 - 316, 1274)
+09-23 02:14:35.272 28263 28809 I ScreenTranslatorPipe:   [ru→en] "све кольник рыбный с к рас ной Фес солью" → "Fish ring with a row to the race" @ Rect(58, 1258 - 316, 1274)
+09-23 02:14:35.295 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "МО льх из куриного беоре" (ML Kit "WaunbiK M3 KypHOro 6eapa") @ Rect(430, 1088 - 613, 1104)
+09-23 02:14:35.296 28263 28484 I ScreenTranslatorPipe:   [ru→en] "МО льх из куриного беоре" → "Mo Far from Chicken Beor" @ Rect(430, 1088 - 613, 1104)
+09-23 02:14:35.299 28263 28416 I ScreenTranslatorPipe:   [und] "150 rp200" @ Rect(733, 1544 - 803, 1557)
+09-23 02:14:35.300 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "200 ro290" → [en conf=0.82 cyr=0] "othe."
+09-23 02:14:35.301 28263 28412 I ScreenTranslatorPipe:   [und] "200 ro290" @ Rect(323, 1095 - 388, 1109)
+09-23 02:14:35.304 28263 28412 I ScreenTranslatorPipe:   [und] "MHbl ynyH" @ Rect(889, 1233 - 942, 1246)
+09-23 02:14:35.336 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [und]/und "168rp 390" → [und conf=0.00 cyr=2] "че)"
+09-23 02:14:35.361 28263 28412 I ScreenTranslatorPipe:   [und] "310 rp 320" @ Rect(327, 1368 - 393, 1381)
+09-23 02:14:35.362 28263 28809 I ScreenTranslatorPipe:   [ru/comic] read "- малина / рознарии" (ML Kit "- ManMHa/ poaMapWH") @ Rect(849, 1265 - 966, 1278)
+09-23 02:14:35.362 28263 28809 I ScreenTranslatorPipe:   [ru→en] "- малина / рознарии" → "- Raspberry / Rimary" @ Rect(849, 1265 - 966, 1278)
+09-23 02:14:35.375 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "200 Mn200" → [la conf=0.86 cyr=0] "pclae"
+09-23 02:14:35.375 28263 28483 I ScreenTranslatorPipe:   [und] "200 Mn200" @ Rect(996, 1079 - 1062, 1091)
+09-23 02:14:35.377 28263 28414 I ScreenTranslatorPipe:   [und] "SOTo 1 50" @ Rect(324, 1508 - 388, 1521)
+09-23 02:14:35.398 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "300 p 490" → [km conf=0.51 cyr=0] "60"
+09-23 02:14:35.398 28263 28483 I ScreenTranslatorPipe:   [und] "300 p 490" @ Rect(732, 936 - 797, 949)
+09-23 02:14:35.409 28263 28412 I ScreenTranslatorPipe:   [ru/comic] read "кола / Фэне / Су ег" (ML Kit "Kona/ aHTa /Cnpeûr") @ Rect(848, 1414 - 976, 1428)
+09-23 02:14:35.409 28263 28412 I ScreenTranslatorPipe:   [ru→en] "кола / Фэне / Су ег" → "Cola / Fan / Su" @ Rect(848, 1414 - 976, 1428)
+09-23 02:14:35.413 28263 28809 I ScreenTranslatorPipe:   [ru/comic] read "Фотуч учини корбонара" (ML Kit "oeryuHM KapóoHapa") @ Rect(47, 1383 - 184, 1398)
+09-23 02:14:35.413 28263 28809 I ScreenTranslatorPipe:   [ru→en] "Фотуч учини корбонара" → "PHOTS LEYS CORBONAR" @ Rect(47, 1383 - 184, 1398)
+09-23 02:14:35.445 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [et]/unexpected "nOMAIIHVE" → [sr conf=0.87 cyr=9] "д ДОМАШНИЕ"
+09-23 02:14:35.475 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "s8o rp 380" → [und conf=0.00 cyr=0] "Metre 380"
+09-23 02:14:35.480 28263 28412 I ScreenTranslatorPipe:   [und] "WeunbiK M3 6apaHMHbİ C KypaosM CanOM 250/150/102 rp750" @ Rect(432, 1073 - 800, 1087)
+09-23 02:14:35.481 28263 28416 I ScreenTranslatorPipe:   [und] "s8o rp 380" @ Rect(320, 1166 - 388, 1180)
+09-23 02:14:35.522 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "howat, anensca, noKo, BHuNE" → [und conf=0.00 cyr=0] "i == 2"
+09-23 02:14:35.522 28263 28483 I ScreenTranslatorPipe:   [und] "howat, anensca, noKo, BHuNE" @ Rect(848, 1361 - 978, 1379)
+09-23 02:14:35.523 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "-эвлочый пирох" (ML Kit "- sónoHHbiứ rupor") @ Rect(850, 1298 - 945, 1312)
+09-23 02:14:35.525 28263 28416 I ScreenTranslatorPipe:   [ru→en] "-эвлочый пирох" → "-Eavenly pyro" @ Rect(850, 1298 - 945, 1312)
+09-23 02:14:35.559 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "ynfynaU SToBAAMHb" → [mn conf=0.94 cyr=3] "ний"
+09-23 02:14:35.589 28263 28483 I ScreenTranslatorPipe:   [ru/comic] read "Пицца пепперони:" (ML Kit "lMuua nennepoHM") @ Rect(48, 1452 - 165, 1466)
+09-23 02:14:35.589 28263 28483 I ScreenTranslatorPipe:   [ru→en] "Пицца пепперони:" → "Pizza Pepperoni:" @ Rect(48, 1452 - 165, 1466)
+09-23 02:14:35.592 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read ", обор бр ускетт," (ML Kit "Ha6op 6pycKer") @ Rect(50, 900 - 152, 920)
+09-23 02:14:35.592 28263 28413 I ScreenTranslatorPipe:   [ru→en] ", обор бр ускетт," → ", BBF will accelerate," @ Rect(50, 900 - 152, 920)
+09-23 02:14:35.596 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "AnxancaHAant" → [und conf=0.00 cyr=1] ": Raven В"
+09-23 02:14:35.596 28263 28414 I ScreenTranslatorPipe:   [und] "AnxancaHAant" @ Rect(49, 1000 - 145, 1015)
+09-23 02:14:35.614 28263 28416 I ScreenTranslatorPipe:   [ru/comic] read "Вителло Тонвто" (ML Kit "Burenno TOHaTO") @ Rect(47, 983 - 150, 998)
+09-23 02:14:35.614 28263 28416 I ScreenTranslatorPipe:   [ru→en] "Вителло Тонвто" → "Vitel" @ Rect(47, 983 - 150, 998)
+09-23 02:14:35.624 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "- o6nenXa /Men" → [und conf=0.00 cyr=0] "ome"
+09-23 02:14:35.624 28263 28412 I ScreenTranslatorPipe:   [und] "- o6nenXa /Men" @ Rect(850, 1279 - 946, 1296)
+09-23 02:14:35.638 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "ют) 390 @ РОЛЛЫ" (ML Kit "0 1a590 POIIbI") @ Rect(332, 1126 - 501, 1148)
+09-23 02:14:35.639 28263 28484 I ScreenTranslatorPipe:   [ru→en] "ют) 390 @ РОЛЛЫ" → "b) 390 @ rolls" @ Rect(332, 1126 - 501, 1148)
+09-23 02:14:35.645 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "масоны Сенча" (ML Kit "AccaM, Ceua") @ Rect(908, 1210 - 980, 1227)
+09-23 02:14:35.645 28263 28414 I ScreenTranslatorPipe:   [ru→en] "масоны Сенча" → "Masons Sencha" @ Rect(908, 1210 - 980, 1227)
+09-23 02:14:35.654 28263 28414 I ScreenTranslatorPipe:   [ru/comic] read "МИЛК ШЕЙКИ м," (ML Kit "MMIIK IEMKM sON") @ Rect(858, 1474 - 1024, 1495)
+09-23 02:14:35.654 28263 28414 I ScreenTranslatorPipe:   [ru→en] "МИЛК ШЕЙКИ м," → "Milk Shaki M," @ Rect(858, 1474 - 1024, 1495)
+09-23 02:14:35.686 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "WoKOnan HopoKeice, cpon, onceo250" → [und conf=0.00 cyr=2] "ee ет Sh"
+09-23 02:14:35.686 28263 28484 I ScreenTranslatorPipe:   [und] "WoKOnan HopoKeice, cpon, onceo250" @ Rect(848, 1496 - 1063, 1512)
+09-23 02:14:35.687 28263 28483 I ScreenTranslatorPipe:   [und] "-vepHblM AccaM, Ceua" @ Rect(849, 1213 - 980, 1230)
+09-23 02:14:35.689 28263 28412 I ScreenTranslatorPipe:   [und] "TleHHe ana-appaóMara" @ Rect(49, 1399 - 190, 1418)
+09-23 02:14:35.692 28263 28809 I ScreenTranslatorPipe:   [und] "OxoTHHYEa Ycanbőa" @ Rect(871, 869 - 1038, 887)
+09-23 02:14:35.738 28263 28413 I ScreenTranslatorPipe:   [und] "200 Mn 180" @ Rect(993, 1017 - 1058, 1029)
+09-23 02:14:35.754 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "3aneveHHbIR ponn KanmoopHnA" → [und conf=0.00 cyr=0] "Secunda bom canton"
+09-23 02:14:35.755 28263 28809 I ScreenTranslatorPipe:   [und] "3aneveHHbIR ponn KanmoopHnA" @ Rect(433, 1215 - 630, 1229)
+09-23 02:14:35.770 28263 28484 I ScreenTranslatorPipe:   [und] "168rp 390" @ Rect(320, 902 - 391, 917)
+09-23 02:14:35.789 28263 28484 I ScreenTranslatorPipe:   [ru/comic] read "ДОМАШНИЕ" (ML Kit "nOMAIIHVE") @ Rect(846, 940 - 960, 955)
+09-23 02:14:35.789 28263 28484 I ScreenTranslatorPipe:   [ru→en] "ДОМАШНИЕ" → "Home" @ Rect(846, 940 - 960, 955)
+09-23 02:14:45.197 28263 28484 I ScreenTranslatorPipe: model ready [pl→en] in 11661ms
+09-23 02:14:45.228 28263 28412 I ScreenTranslatorPipe: translation timing [ru→en]: model=9888ms inference=29ms
+09-23 02:14:45.229 28263 28412 I ScreenTranslatorPipe:   [ru→en] "ВНЕ" → "Is" @ Rect(320, 1277 - 386, 1289)
+09-23 02:14:45.233 28263 28412 I ScreenTranslatorPipe: translation timing [ru→en]: model=9639ms inference=35ms
+09-23 02:14:45.233 28263 28412 I ScreenTranslatorPipe:   [ru→en] no-op "ний"; no card
+09-23 02:14:45.233 28263 28412 I ScreenTranslatorPipe:   [ru→en] "ний" → "?" @ Rect(63, 1290 - 198, 1306)
+09-23 02:14:45.414 28263 28412 I ScreenTranslatorPipe: translation timing [pl→en]: model=11664ms inference=217ms
+09-23 02:14:45.414 28263 28412 I ScreenTranslatorPipe:   [pl→en] "Byprep c KypwHbIM óeapoM cy-BMA" → "BYPREP C Kypwhbim ÓEPOM CY-BMA" @ Rect(434, 1405 - 655, 1419)
+09-23 02:14:45.422 28263 28412 I ScreenTranslatorPipe: language signal: counts={ru=38, pl=1} → ru
+09-23 02:14:45.423 28263 28484 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:14:45.466 28263 28412 I ScreenTranslatorPipe: LID+NMT for 120 region(s) in 12691ms → 39 card(s)
+09-23 02:14:45.466 28263 28412 I ScreenTranslatorPipe:   … 48 more region(s) skipped
+09-23 02:14:53.064 28263 28412 I ScreenTranslatorPipe: screen unchanged (hamming=0/256 in 1ms); reusing 39 card(s)

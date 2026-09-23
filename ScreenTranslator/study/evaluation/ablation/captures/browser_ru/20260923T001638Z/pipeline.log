@@ -1,0 +1,24 @@
+--------- beginning of main
+09-23 02:16:56.255 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:16:56.305 28263 28809 I ScreenTranslatorPipe: model prewarm [es→en]: ready=true in 1ms
+09-23 02:16:56.470 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:16:56.816 28263 28263 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=1 focus=1
+09-23 02:16:56.914 28263 28263 I ScreenTranslatorA11y: language focus set externally: ru
+09-23 02:16:56.930 28263 28412 I ScreenTranslatorPipe: model prewarm [ru→en]: ready=true in 0ms
+09-23 02:16:57.471 28263 28414 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:16:57.544 28263 28414 I ScreenTranslatorPipe: model ready [bg→en] in 52ms
+09-23 02:16:57.621 28263 28809 I ScreenTranslatorPipe: model ready [ar→en] in 76ms
+09-23 02:16:57.657 28263 28809 I ScreenTranslatorPipe:   [ru→en] no-op "устар."; no card
+09-23 02:16:57.897 28263 28809 I ScreenTranslatorPipe:   [ru→en] no-op "обс."; no card
+09-23 02:16:57.899 28263 28809 I ScreenTranslatorPipe:   [ru→en] no-op "СоколовМихаил"; no card
+09-23 02:16:58.238 28263 28483 I ScreenTranslatorPipe:   [bg→en] no-op "разн."; no card
+09-23 02:16:58.240 28263 28483 I ScreenTranslatorPipe:   [bg→en] no-op "Википедия"; no card
+09-23 02:16:58.816 28263 28483 I ScreenTranslatorPipe: a11y fast-path 42 node(s) → 25 card(s) in 1891ms
+09-23 02:16:59.087 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:16:59.087 28263 28483 I ScreenTranslatorPipe: a11y unchanged (fp=1633813529, 42 node(s)); reusing 25 card(s)
+09-23 02:17:00.164 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:17:00.164 28263 28483 I ScreenTranslatorPipe: a11y unchanged (fp=1633813529, 42 node(s)); reusing 25 card(s)
+09-23 02:17:00.259 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:17:00.260 28263 28483 I ScreenTranslatorPipe: a11y unchanged (fp=1633813529, 42 node(s)); reusing 25 card(s)
+09-23 02:17:02.845 28263 28483 I ScreenTranslatorPipe: a11y walk dropped 1 oversize container node(s)
+09-23 02:17:02.846 28263 28483 I ScreenTranslatorPipe: a11y unchanged (fp=1633813529, 42 node(s)); reusing 25 card(s)

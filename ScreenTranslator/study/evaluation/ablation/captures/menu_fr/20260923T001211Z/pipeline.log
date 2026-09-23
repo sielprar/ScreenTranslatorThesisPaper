@@ -1,0 +1,121 @@
+--------- beginning of main
+09-23 02:12:21.490 28263 28263 I ScreenTranslatorA11y: Accessibility service connected
+09-23 02:12:21.534 28263 28483 I ScreenTranslatorPipe: model prewarm [fr→en]: ready=true in 0ms
+09-23 02:12:21.682 28263 28263 I ScreenTranslatorA11y: Overlay geometry: display=1080x2400, root=1080x2400 @ (0, 0)
+09-23 02:12:22.079 28263 28263 I ScreenTranslatorEval: flags a11y=1 multiscale=1 tesseract=1 focus=1
+09-23 02:12:23.381 28263 28483 I ScreenTranslatorPipe: OCR 1080x2400 (scale=1.00) in 1579ms → 84 region(s)
+09-23 02:12:23.395 28263 28413 I ScreenTranslatorPipe:   [en] "mint, fresh cilantro or parsley, green onion, rice" @ Rect(50, 1599 - 427, 1616)
+09-23 02:12:23.397 28263 28412 I ScreenTranslatorPipe:   [en] "flavored with garlic, onions, carrots, salt and a" @ Rect(554, 895 - 919, 911)
+09-23 02:12:23.399 28263 28413 I ScreenTranslatorPipe:   [en] "undercooked meats, poultry, seafood, shellfish, or" @ Rect(54, 1688 - 471, 1709)
+09-23 02:12:23.401 28263 28413 I ScreenTranslatorPipe:   [en] "S10 Salad from the Cote D'Azur of France. Tomato," @ Rect(497, 1087 - 921, 1106)
+09-23 02:12:23.402 28263 28413 I ScreenTranslatorPipe:   [en] "onions, potatoes, egg, olives, anchovies, capers" @ Rect(49, 913 - 429, 930)
+09-23 02:12:23.403 28263 28483 I ScreenTranslatorPipe:   [en] "Small cylindrical mold or basket made of leaf or" @ Rect(50, 1016 - 430, 1034)
+09-23 02:12:23.403 28263 28413 I ScreenTranslatorPipe:   [en] "onions. potatoes, egg, olives, anchovies, capers" @ Rect(49, 1488 - 427, 1515)
+09-23 02:12:23.405 28263 28483 I ScreenTranslatorPipe:   [en] "From the Cote D'Azur region of France. Lettuce," @ Rect(50, 875 - 430, 894)
+09-23 02:12:23.405 28263 28416 I ScreenTranslatorPipe:   [en] "From the Cote D'Azur region of France. Lettuce," @ Rect(50, 1456 - 430, 1475)
+09-23 02:12:23.408 28263 28483 I ScreenTranslatorPipe:   [en] "eggs may increase your risk offoodborne illness" @ Rect(53, 1709 - 455, 1730)
+09-23 02:12:23.408 28263 28413 I ScreenTranslatorPipe:   [en] "red peppers, onion, lettuce, potatoes, beans," @ Rect(554, 1108 - 912, 1126)
+09-23 02:12:23.411 28263 28416 I ScreenTranslatorPipe:   [en] "red peppers, onion, lettuce, potatoes, beans," @ Rect(50, 1369 - 407, 1386)
+09-23 02:12:23.412 28263 28414 I ScreenTranslatorPipe:   [en] "tomatoes, bell pepper, green beans, spring" @ Rect(50, 895 - 390, 911)
+09-23 02:12:23.412 28263 28414 I ScreenTranslatorPipe:   [en] "tomatoes, bell pepper, green beans, spring" @ Rect(49, 1474 - 391, 1492)
+09-23 02:12:23.412 28263 28414 I ScreenTranslatorPipe:   [en] "Baby cucumber, dried wakame seaweed, fresh" @ Rect(50, 1581 - 418, 1598)
+09-23 02:12:23.413 28263 28414 I ScreenTranslatorPipe:   [en] "Salad from the Cote D'Azur of France. Tomato," @ Rect(50, 1350 - 419, 1367)
+09-23 02:12:23.414 28263 28414 I ScreenTranslatorPipe:   [en] "Stew, onion, tomato and other vegetables." @ Rect(554, 807 - 896, 824)
+09-23 02:12:23.415 28263 28413 I ScreenTranslatorPipe:   [en] "Beef stew cooked in Burgundy red wine and" @ Rect(554, 875 - 906, 894)
+09-23 02:12:23.416 28263 28414 I ScreenTranslatorPipe:   [en] "Chicken, mushrooms and truffle bechamel" @ Rect(554, 1194 - 886, 1211)
+09-23 02:12:23.416 28263 28416 I ScreenTranslatorPipe:   [en] "Cream and egg. poached vegetables and bacon." @ Rect(50, 805 - 428, 823)
+09-23 02:12:23.416 28263 28416 I ScreenTranslatorPipe:   [en] "Small chocolate sponge cake with melted" @ Rect(556, 1501 - 889, 1517)
+09-23 02:12:23.417 28263 28416 I ScreenTranslatorPipe:   [en] "boiled eggs, tuna in oil and olives 15" @ Rect(50, 1384 - 337, 1403)
+09-23 02:12:23.418 28263 28414 I ScreenTranslatorPipe:   [en] "Whipped egg whites, chocolate mousse and" @ Rect(556, 1340 - 909, 1357)
+09-23 02:12:23.422 28263 28483 I ScreenTranslatorPipe:   [en] "Ask your server for our chef's daily soup" @ Rect(49, 1260 - 369, 1280)
+09-23 02:12:23.423 28263 28414 I ScreenTranslatorPipe:   [en] "Consumer Advisory. Consuming raw or" @ Rect(52, 1669 - 386, 1690)
+09-23 02:12:23.423 28263 28414 I ScreenTranslatorPipe:   [en] "puff pastry dough. Salted." @ Rect(50, 1033 - 253, 1054)
+09-23 02:12:23.423 28263 28483 I ScreenTranslatorPipe:   [en] "boiled eggs, tuna in oil and olives" @ Rect(554, 1125 - 819, 1142)
+09-23 02:12:23.423 28263 28416 I ScreenTranslatorPipe:   [en] "or puff pastry dough. Salted. 20" @ Rect(553, 1017 - 801, 1036)
+09-23 02:12:23.424 28263 28483 I ScreenTranslatorPipe:   [en] "i. Copy text from image x" @ Rect(305, 2093 - 785, 2130)
+09-23 02:12:23.424 28263 28416 I ScreenTranslatorPipe:   [en] "templates at EDIT.org" @ Rect(56, 1907 - 248, 1929)
+09-23 02:12:23.424 28263 28416 I ScreenTranslatorPipe:   [en] "Editable french menu" @ Rect(55, 1892 - 246, 1908)
+09-23 02:12:23.425 28263 28483 I ScreenTranslatorPipe:   [en] "Quiche Vichyssoise." @ Rect(49, 785 - 201, 805)
+09-23 02:12:23.431 28263 28416 I ScreenTranslatorPipe:   [en] "selection 7" @ Rect(49, 1281 - 135, 1294)
+09-23 02:12:23.882 28263 28483 I ScreenTranslatorPipe:   [en] "S1O Delicious pear and almond cream tart." @ Rect(497, 1424 - 856, 1447)
+09-23 02:12:23.890 28263 28416 I ScreenTranslatorPipe:   [und] "Salade de Concombre." @ Rect(49, 1561 - 222, 1579)
+09-23 02:12:23.908 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [en]/garbled "SI0 Small cylindrical mold or basket made of leaf" → [und conf=0.00 cyr=8] "510 эталонов moor basket, mace tee"
+09-23 02:12:23.924 28263 28412 I ScreenTranslatorPipe:   [en] "SI0 Small cylindrical mold or basket made of leaf" @ Rect(497, 997 - 912, 1017)
+09-23 02:12:23.980 28263 28412 I ScreenTranslatorPipe:   [fr→en] "Vol-au-vent aux fruits de mer et aux" → "Vol-au-wind with seafood and" @ Rect(50, 984 - 339, 997)
+09-23 02:12:24.016 28263 28414 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Tarte Bourdaloue." → [und conf=0.00 cyr=12] "талевоиааоие,,,"
+09-23 02:12:24.079 28263 28484 I ScreenTranslatorPipe:   [fr→en] "Vol-au-vent aux fruits de mer et aux" → "Vol-au-wind with seafood and" @ Rect(554, 966 - 843, 980)
+09-23 02:12:24.173 28263 28484 I ScreenTranslatorPipe:   [fr→en] "S10 Boeuf Bourguignon." → "S10 Burgundy beef." @ Rect(497, 859 - 709, 876)
+09-23 02:12:24.182 28263 28413 I ScreenTranslatorPipe:   [fr→en] "Les Plats Principaux" → "Main dishes" @ Rect(554, 737 - 851, 766)
+09-23 02:12:24.190 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Mi-cuit au chocolat" → [en conf=0.64 cyr=0] "pede heed"
+09-23 02:12:24.191 28263 28809 I ScreenTranslatorPipe:   [und] "Mi-cuit au chocolat" @ Rect(555, 1479 - 709, 1498)
+09-23 02:12:24.206 28263 28416 I ScreenTranslatorPipe:   [fr→en] "Galettes de poulet." → "Chicken pancakes." @ Rect(553, 1179 - 706, 1194)
+09-23 02:12:24.218 28263 28483 I ScreenTranslatorPipe:   [fr→en] "Galettes de poulet." → "Chicken pancakes." @ Rect(49, 1090 - 201, 1106)
+09-23 02:12:24.230 28263 28413 I ScreenTranslatorPipe:   [fr→en] "Mousse au Chocolat." → "Chocolate mousse." @ Rect(556, 1321 - 716, 1338)
+09-23 02:12:24.242 28263 28483 I ScreenTranslatorPipe:   [fr→en] "Soupe et Salades" → "Soup and salads" @ Rect(49, 1185 - 300, 1222)
+09-23 02:12:24.243 28263 28484 I ScreenTranslatorPipe:   [fr→en] "Soupe du Jour" → "Soup of the day" @ Rect(50, 1245 - 163, 1261)
+09-23 02:12:24.253 28263 28484 I ScreenTranslatorPipe:   [fr→en] "fruit mousse." → "Fruit foam." @ Rect(556, 1357 - 658, 1372)
+09-23 02:12:24.256 28263 28484 I ScreenTranslatorPipe:   [fr→en] "Entrées" → "Entries" @ Rect(50, 738 - 159, 759)
+09-23 02:12:24.259 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Salade Niçoise." → [en conf=0.82 cyr=0] "Pern:"
+09-23 02:12:24.259 28263 28809 I ScreenTranslatorPipe:   [und] "Salade Niçoise." @ Rect(49, 1331 - 166, 1348)
+09-23 02:12:24.275 28263 28413 I ScreenTranslatorPipe:   [ru/comic] read "Тале Вои ыы ие." (ML Kit "Tarte Bourdaloue.") @ Rect(555, 1408 - 693, 1427)
+09-23 02:12:24.300 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Salade Niçoise." → [und conf=0.00 cyr=0] "rental ag Sos"
+09-23 02:12:24.300 28263 28413 I ScreenTranslatorPipe:   [und] "Salade Niçoise." @ Rect(50, 860 - 164, 877)
+09-23 02:12:24.320 28263 28484 I ScreenTranslatorPipe: model ready [ru→en] in 42ms
+09-23 02:12:24.350 28263 28484 I ScreenTranslatorPipe:   [und] "champignons." @ Rect(50, 1002 - 158, 1018)
+09-23 02:12:24.352 28263 28413 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Salade Niçoise." → [und conf=0.00 cyr=0] "Einerpiaeayecepe"
+09-23 02:12:24.352 28263 28413 I ScreenTranslatorPipe:   [und] "Salade Niçoise." @ Rect(554, 1073 - 671, 1089)
+09-23 02:12:24.354 28263 28483 I ScreenTranslatorPipe:   [und] "Salade Niçoise." @ Rect(49, 1436 - 165, 1459)
+09-23 02:12:24.370 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Les Desserts" → [und conf=0.00 cyr=0] "Les Desserts"
+09-23 02:12:24.370 28263 28483 I ScreenTranslatorPipe:   [und] "Les Desserts" @ Rect(553, 1263 - 741, 1291)
+09-23 02:12:24.401 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.65) "and tuna. 20" → [en conf=0.65 cyr=0] "and tuna 20."
+09-23 02:12:24.402 28263 28809 I ScreenTranslatorPipe:   [und] "and tuna. 20" @ Rect(49, 1511 - 146, 1525)
+09-23 02:12:24.403 28263 28413 I ScreenTranslatorPipe:   [und] "Chicken, mushrooms and truffle bechamel." @ Rect(50, 1108 - 386, 1123)
+09-23 02:12:24.407 28263 28484 I ScreenTranslatorPipe:   [und] "champignons" @ Rect(553, 980 - 660, 998)
+09-23 02:12:24.528 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "FRENCHMENU" → [und conf=0.00 cyr=2] "eS ра toe ye a"
+09-23 02:12:24.529 28263 28416 I ScreenTranslatorPipe:   [und] "vinegar 20" @ Rect(48, 1616 - 131, 1633)
+09-23 02:12:24.530 28263 28483 I ScreenTranslatorPipe:   [und] "FRENCHMENU" @ Rect(57, 1861 - 218, 1882)
+09-23 02:12:24.547 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "interior." → [und conf=0.00 cyr=0] "interior."
+09-23 02:12:24.547 28263 28416 I ScreenTranslatorPipe:   [und] "interior." @ Rect(556, 1518 - 614, 1532)
+09-23 02:12:24.568 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [ar-Latn]/unexpected "and tuna." → [und conf=0.00 cyr=0] "nd tuna"
+09-23 02:12:24.568 28263 28416 I ScreenTranslatorPipe:   [und] "and tuna." @ Rect(50, 931 - 122, 944)
+09-23 02:12:24.569 28263 28413 I ScreenTranslatorPipe:   [und] "bouquet garni." @ Rect(554, 911 - 670, 930)
+09-23 02:12:24.579 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Delete" → [und conf=0.00 cyr=0] "Delete"
+09-23 02:12:24.579 28263 28416 I ScreenTranslatorPipe:   [und] "Delete" @ Rect(863, 2281 - 972, 2315)
+09-23 02:12:24.589 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Share" → [und conf=0.00 cyr=0] "Share"
+09-23 02:12:24.589 28263 28809 I ScreenTranslatorPipe:   [und] "Share" @ Rect(113, 2284 - 210, 2314)
+09-23 02:12:24.628 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "CAFE BIGOT" → [und conf=0.00 cyr=0] "CAFE BIGOT"
+09-23 02:12:24.628 28263 28416 I ScreenTranslatorPipe:   [und] "CAFE BIGOT" @ Rect(177, 491 - 902, 587)
+09-23 02:12:24.629 28263 28483 I ScreenTranslatorPipe:   [und] "LOGO" @ Rect(60, 1797 - 111, 1810)
+09-23 02:12:24.631 28263 28416 I ScreenTranslatorPipe:   [und] "YOUR" @ Rect(59, 1778 - 111, 1792)
+09-23 02:12:24.637 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Edit" → [und conf=0.00 cyr=0] "Edit"
+09-23 02:12:24.637 28263 28412 I ScreenTranslatorPipe:   [und] "Edit" @ Rect(382, 2284 - 445, 2313)
+09-23 02:12:24.646 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S10" → [km conf=0.68 cyr=0] "510"
+09-23 02:12:24.646 28263 28412 I ScreenTranslatorPipe:   [und] "S10" @ Rect(498, 1246 - 530, 1264)
+09-23 02:12:24.654 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "Lens" → [und conf=0.00 cyr=0] "Lens"
+09-23 02:12:24.654 28263 28483 I ScreenTranslatorPipe:   [und] "Lens" @ Rect(626, 2285 - 704, 2313)
+09-23 02:12:24.664 28263 28484 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S10" → [und conf=0.00 cyr=0] "s10."
+09-23 02:12:24.664 28263 28484 I ScreenTranslatorPipe:   [und] "S10" @ Rect(498, 1561 - 530, 1582)
+09-23 02:12:24.674 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S10" → [und conf=0.00 cyr=0] "S10"
+09-23 02:12:24.674 28263 28412 I ScreenTranslatorPipe:   [und] "S10" @ Rect(498, 1331 - 530, 1349)
+09-23 02:12:24.674 28263 28483 I ScreenTranslatorPipe:   [und] "S10" @ Rect(997, 791 - 1031, 809)
+09-23 02:12:24.682 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S10" → [und conf=0.00 cyr=0] "S10"
+09-23 02:12:24.683 28263 28483 I ScreenTranslatorPipe:   [und] "S10" @ Rect(998, 1071 - 1030, 1090)
+09-23 02:12:24.719 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S10" → [und conf=0.00 cyr=0] "S10"
+09-23 02:12:24.720 28263 28483 I ScreenTranslatorPipe:   [und] "S10" @ Rect(1002, 1475 - 1036, 1493)
+09-23 02:12:24.721 28263 28412 I ScreenTranslatorPipe:   tesseract tried on [en]/low-conf(0.62) "ROUGE" → [en conf=0.62 cyr=0] "ROUGE"
+09-23 02:12:24.721 28263 28412 I ScreenTranslatorPipe:   [und] "ROUGE" @ Rect(322, 604 - 757, 690)
+09-23 02:12:24.795 28263 28809 I ScreenTranslatorPipe:   [und] "S10" @ Rect(1002, 1412 - 1035, 1431)
+09-23 02:12:24.795 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [fr]/low-conf(0.91) "S10 Fricandeaux de Boeuf." → [bg conf=0.68 cyr=12] "S10 Еисапаваик че a"
+09-23 02:12:24.796 28263 28416 I ScreenTranslatorPipe:   [und] "S10 Fricandeaux de Boeuf." @ Rect(497, 785 - 720, 806)
+09-23 02:12:24.809 28263 28809 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S1O" → [und conf=0.00 cyr=0] "0"
+09-23 02:12:24.809 28263 28809 I ScreenTranslatorPipe:   [und] "S1O" @ Rect(997, 859 - 1029, 878)
+09-23 02:12:24.818 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S1O" → [und conf=0.00 cyr=0] "0"
+09-23 02:12:24.818 28263 28416 I ScreenTranslatorPipe:   [und] "S1O" @ Rect(997, 1177 - 1029, 1196)
+09-23 02:12:24.843 28263 28416 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S1O" → [und conf=0.00 cyr=0] "S10"
+09-23 02:12:24.844 28263 28416 I ScreenTranslatorPipe:   [und] "S1O" @ Rect(1002, 1321 - 1035, 1339)
+09-23 02:12:24.844 28263 28483 I ScreenTranslatorPipe:   tesseract tried on [und]/und "S1O" → [und conf=0.00 cyr=0] "S10"
+09-23 02:12:24.845 28263 28483 I ScreenTranslatorPipe:   [und] "S1O" @ Rect(997, 968 - 1030, 986)
+09-23 02:12:24.858 28263 28416 I ScreenTranslatorPipe:   [ru→en] "Тале Вои ыы ие." → "Hair Wari Ya." @ Rect(555, 1408 - 693, 1427)
+09-23 02:12:24.865 28263 28416 I ScreenTranslatorPipe: language signal: counts={fr=11, ru=1} → fr
+09-23 02:12:24.867 28263 28483 I ScreenTranslatorPipe: model prewarm [fr→en]: ready=true in 0ms
+09-23 02:12:24.928 28263 28416 I ScreenTranslatorPipe: LID+NMT for 84 region(s) in 1485ms → 12 card(s)
